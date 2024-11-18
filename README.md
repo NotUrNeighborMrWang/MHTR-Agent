@@ -38,7 +38,7 @@ This repository includes the implementation of the following key modules:
 2. Set up a virtual environment and install dependencies:
    ```bash
    python -m venv env
-   source env/bin/activate   # On Windows, use `env\Scriptsctivate`
+   source env/bin/activate
    pip install -r requirements.txt
    ```
 

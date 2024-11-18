@@ -11,12 +11,6 @@ This repository includes the implementation of the following key modules:
 
 ---
 
-## Table of Contents
-
-[toc]
-
----
-
 ## Features
 
 - **Data Mining and Trend Analysis (`llm_tracker`)**:

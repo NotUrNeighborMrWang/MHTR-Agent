@@ -1,5 +1,5 @@
 
-# 🤖 MHTR-Agent: A Novel Paradigm for Heat Treatment Research
+# 🤖 MHTR-Agent: A Novel Paradigm for Heat Treatment Research Based on Multimodal Analysis and LLMs
 
 MHTR-Agent is a multimodal analysis and intelligent optimization framework for the heat treatment field. It leverages large language models (LLMs) and advanced multimodal data integration techniques to accelerate scientific discoveries and process optimization.
 

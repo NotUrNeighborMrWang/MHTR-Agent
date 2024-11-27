@@ -12,8 +12,8 @@ create_datasets_hardness.ipynb
 
 ```bash
 # 硬度预测
-test_multi_hard.ipynb
+python test.py
 
 # 磨损系数预测
-test_multi_friction.ipynb
+python test.py
 ```

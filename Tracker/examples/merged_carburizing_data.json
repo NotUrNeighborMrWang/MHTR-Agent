@@ -1,0 +1,2276 @@
+[
+    {
+        "Basic information": {
+            "title": "Variation of hydrogen content in gear steel after carburizing and heat treatment and its effect on fatigue properties",
+            "authors": [
+                "Yanjun Xue",
+                "Yongming Yan",
+                "Wenchao Yu",
+                "Ke Liu",
+                "Jie Shi",
+                "Maoqiu Wang"
+            ],
+            "institutions": [
+                "Central Iron & Steel Research Institute Company Limited, Beijing 100081, China",
+                "Jianglu Machinery & Electronics Group Company Limited, Xiangtan, Hunan 411100, China"
+            ],
+            "publication year": 2023,
+            "journal": "International Journal of Fatigue",
+            "doi": "10.1016/j.ijfatigue.2023.107967"
+        },
+        "Content summary": {
+            "main content": "This study investigates the variation of hydrogen contents in gear steel (17Cr2Ni2MoVNb) after gas carburizing, low-pressure carburizing, and heat treatment, and how this influences fatigue properties. Thermal desorption spectrometry (TDS) analysis was employed to measure hydrogen content changes. Results indicated that gas-carburized specimens absorbed hydrogen during the process; however, the hydrogen levels post-fatigue tests were not sufficiently high to impact the material's fatigue limits.",
+            "research question": "How do variations in hydrogen content after carburizing and heat treatment affect the fatigue properties of gear steel?",
+            "experimental design": "The steel underwent various carburizing and heat treatment processes, followed by thermal desorption spectrometry and fatigue testing to assess hydrogen content and mechanical performance.",
+            "experimental results": {
+                "hydrogen content": {
+                    "gas carburizing": {
+                        "before fatigue testing": "0.084 mass ppm",
+                        "after fatigue testing": "0.057 mass ppm"
+                    },
+                    "low-pressure carburizing": {
+                        "no absorption noted": "0.008 mass ppm"
+                    }
+                },
+                "fatigue limits": {
+                    "gas carburized": "980 MPa",
+                    "low-pressure carburized": "980 MPa"
+                },
+                "microstructural findings": "Fractures in gas carburized specimens indicated non-metallic inclusions leading to cleavage fractures, while low-pressure carburized specimens showed intergranular fractures."
+            }
+        },
+        "Carburizing heat treatment key information": [
+            {
+                "Name of material": "17Cr2Ni2MoVNb",
+                "Carbon Flux": "Not specified",
+                "Diffusion Coefficient": "Not specified",
+                "Saturated Carbon Concentration": "Not specified",
+                "Temperature": "255 \u00b0C (phase transformation temp for H desorption)",
+                "Initial and Final Carbon Concentration": "Not specified",
+                "Carburized Layer Depth": "Not specified",
+                "Pulse and Diffusion Time": "Gas carburizing \u2192 high temperature tempering (HTT) \u2192 quenching (Q) \u2192 low temperature tempering (LTT)",
+                "Gas Flow Rate": "Not specified",
+                "Carburizing Pressure": "Not specified",
+                "Other important parameters and details": {
+                    "Method to measure carbon flux": "Not specified",
+                    "Diffusion models": "Not specified",
+                    "Critical concentrations to avoid carbide networks": "Not specified",
+                    "Quenching oil temperature": "Not specified",
+                    "Cooling control methods": "Nitrogen-based protective atmosphere used during quenching",
+                    "Surface to core gradients": "Not specified",
+                    "Microhardness": {
+                        "Surface hardness": "Not specified",
+                        "Maximum hardness": "Not specified",
+                        "Hardness gradient distributions": "Not specified"
+                    },
+                    "Hydrogen bonding behavior": {
+                        "Hyperbolic form included": "Hydrogen content not significantly affecting fatigue properties.",
+                        "Transition region characteristics": "Fracture observed with microvoid coalescence in gas carburized specimens."
+                    },
+                    "Models and calculation methods": "Murakami\u2019s fatigue strength equation included hydrogen influence."
+                }
+            }
+        ]
+    },
+    {
+        "Basic information": {
+            "title": "A study of the wear performance of duplex treated commercial low-alloy steel against alumina and WC balls",
+            "authors": [
+                "Nasser Eddine Beliardouh",
+                "Corinne Nouveau",
+                "Michael J. Walock",
+                "Philippe Jacquet"
+            ],
+            "institutions": [
+                "Laboratoire Ing\u00e9nierie des Surfaces (LIS), Universit\u00e9 Badji Mokhtar, Algeria",
+                "Arts et M\u00e9tiers ParisTech, France",
+                "University of Alabama at Birmingham (UAB), USA"
+            ],
+            "publication_year": 2014,
+            "journal": "Surface & Coatings Technology",
+            "volume": 259,
+            "pages": "483\u2013494"
+        },
+        "Content summary": {
+            "objective": "To investigate the improvement of tribological properties of low alloy steel through duplex treatment combining low pressure carburizing and Cr\u2013(WC\u2013Co) coatings.",
+            "research_question": "How does the combination of carburizing treatment and coating deposition affect the wear performance of low-alloy steel?",
+            "experimental_design": "Low pressure carburizing was conducted with cycles followed by quenching and annealing; coatings were deposited by reactive dual RF magnetron sputtering. Tribological tests were performed against alumina and WC balls using a pin-on-disk setup.",
+            "main_results": {
+                "microstructure": "Carburized samples exhibited a dense layer of martensite and cementite with a hardness gradient from the surface to the core.",
+                "wear_performance": "Duplex treated samples showed significantly lower wear rates compared to carburized samples. The coating F102 demonstrated better wear resistance than F101.",
+                "wear_mechanism": "Oxidative wear predominated, with additional mechanisms observed depending on the counterpart material used."
+            }
+        },
+        "Carburizing heat treatment details": {
+            "a": "DIN 18CrMo4 steel",
+            "b": "1.0e-4 to 1.2e-4 g/cm\u00b2\u00b7s",
+            "c": "Variable, specified within the study",
+            "d": "0.67 to 0.61 wt%",
+            "e": "900 \u00b0C",
+            "f": {
+                "initial_carbon_concentration": "0.13 wt%",
+                "final_carbon_concentration": "0.67-0.61 wt%"
+            },
+            "g": "500 mm",
+            "h": {
+                "pulse_time": "25 ms",
+                "diffusion_time": "120 min"
+            },
+            "i": "1 Pa (carburizing gas pressure)",
+            "j": "500 kPa (quenching pressure)",
+            "k": {
+                "segmented_averaging": "Yes",
+                "diffusion_models": "Modified Fick's Law applicable for alloy compositions",
+                "hardness_gradient": {
+                    "C1_hardness": "768 HV",
+                    "C2_hardness": "654 HV",
+                    "core_hardness": "Around 300 HV"
+                },
+                "quenching_oil_temperature": "Not specified",
+                "cooling_control_methods": "High pressure N2 environment",
+                "carbon_concentration_limits": {
+                    "to_avoid_network_carbides": "Not specified"
+                },
+                "microhardness": "Measured via Vickers micro-hardness tests with 100g load"
+            }
+        }
+    },
+    {
+        "Basic information": {
+            "title": "Characterization of carburized 14Cr14Co13Mo4 stainless steel by low pressure carburizing",
+            "authors": [
+                "Longcheng Yin",
+                "Xinxin Ma",
+                "Liqin Wang",
+                "Liuhe Li",
+                "Guangze Tang",
+                "Zhongyuan Fu",
+                "Shuxin Yang",
+                "Tingjian Wang"
+            ],
+            "institutions": [
+                "State Key Laboratory of Advanced Welding and Joining, Harbin Institute of Technology, Harbin 150001, China",
+                "School of Material Science & Engineering, Harbin Institute of Technology, Harbin 150001, China",
+                "AECC Harbin Bearing CO., LTD, Harbin 150001, China",
+                "School of Mechatronics Engineering, Harbin Institute of Technology, Harbin 150001, China",
+                "School of Mechanical Engineering and Automation, Beijing University of Aeronautics and Astronautics, Beijing 100083, China"
+            ],
+            "publication_year": 2019,
+            "journal": "Surface & Coatings Technology",
+            "volume": 358,
+            "pages": "654-660"
+        },
+        "Content summary": {
+            "main_content": "This study focuses on the low-pressure carburizing (LPC) of 14Cr14Co13Mo4 martensitic stainless steel and examines the resulting carbide microstructure and carbon concentration profiles. The LPC process was simulated using DICTRA software to optimize carbon diffusion parameters and was validated against experimental data.",
+            "research_question": "How does the low-pressure carburizing affect the carbon diffusion and phase transformations in 14Cr14Co13Mo4 stainless steel, and what are the implications for microstructure and mechanical properties?",
+            "experimental_design": "The researchers conducted LPC on 14Cr14Co13Mo4 steel using a gas mixture of acetylene and hydrogen, measuring carbon concentration via a Carbon and Sulphur analyzer and characterizing microstructural changes with XRD and EBSD.",
+            "experimental_results": "Results showed that carbon concentration decreased from a maximum of 2.03 wt% at the surface to 0.14 wt% at a depth of 0.35 mm and revealed distinct carbide phases including M23C6, M6C, M7C3, and \u03c7 phase. A 'transition zone' was identified in the microstructure related to carbon concentration gradients."
+        },
+        "Materials-Process Parameters-Microstructure-Final Properties Relationship": {
+            "a": {
+                "Name of Material": "14Cr14Co13Mo4 stainless steel",
+                "Carbon Flux (g/cm\u00b2\u00b7s)": "Not explicitly reported",
+                "Diffusion Coefficient": {
+                    "C": "3.03 \u00d7 10\u207b\u00b9\u00b2 m\u00b2/s",
+                    "Co": "6.10 \u00d7 10\u207b\u00b9\u2074 m\u00b2/s",
+                    "Cr": "1.81 \u00d7 10\u207b\u00b9\u2077 m\u00b2/s",
+                    "Mo": "5.60 \u00d7 10\u207b\u00b9\u2077 m\u00b2/s",
+                    "Ni": "5.93 \u00d7 10\u207b\u00b9\u2079 m\u00b2/s",
+                    "V": "3.17 \u00d7 10\u207b\u00b9\u2077 m\u00b2/s",
+                    "W": "2.99 \u00d7 10\u207b\u00b9\u2077 m\u00b2/s"
+                },
+                "Saturated Carbon Concentration (wt%)": "Not explicitly reported",
+                "Temperature (\u00b0C)": 890,
+                "Initial and Final Carbon Concentration": "Initial: 0.14 wt%, Final: Range from 2.03 wt% to 0.14 wt%",
+                "Carburized Layer Depth (mm)": "0.35 (shallow), 1.25 (deep)",
+                "Pulse and Diffusion Time (s)": {
+                    "Boost stage": "2 min",
+                    "Diffusion stage": "12 min (varied in loops)"
+                },
+                "Gas Flow Rate (L/min)": 33.33,
+                "Carburizing Pressure (Pa)": 1100,
+                "Other important parameters and details": [
+                    "Simulated and measured carbon profiles indicated a transition zone at 0.084 mm depth.",
+                    "Maximal carbon concentration reached 4.08 wt% after LPC.",
+                    "Major stable phases include M23C6, M6C, M7C3, and \u03c7 phase."
+                ]
+            }
+        }
+    },
+    {
+        "Basic information": {
+            "title": "Surface hardening of high modulus steels through carburizing and nitriding: First insights into microstructure property relationships",
+            "authors": [
+                "M. Gathmann",
+                "N. T\u00f6nnissen",
+                "C. Baron",
+                "A. Kostka",
+                "M. Steinbacher",
+                "H. Springer"
+            ],
+            "institutions": [
+                "Max-Planck-Institut f\u00fcr Nachhaltige Materialien GmbH, D\u00fcsseldorf, Germany",
+                "Ruhr-Universit\u00e4t Bochum, Germany",
+                "Leibniz-Institut f\u00fcr Werkstofforientierte Technologien \u2013 IWT, Bremen, Germany",
+                "RWTH Aachen University, Germany"
+            ],
+            "publication_year": 2024,
+            "journal": "Surface & Coatings Technology",
+            "volume": 494,
+            "article_number": "131354",
+            "doi": "10.1016/j.surfcoat.2024.131354"
+        },
+        "Content summary": {
+            "main_content": "This study investigates the surface hardening effects of low-pressure carburizing and plasma nitriding on high modulus steels (HMS), specifically Fe-TiB2 and Fe-Cr-M2B alloys. It examines the resulting microstructural changes and mechanical properties, revealing insights into hardness profiles and the influence of processing parameters.",
+            "research_question": "How do carburizing and nitriding affect the microstructure and hardness of high modulus steels?",
+            "experimental_design": "Carburizing was performed using a low-pressure process at 940\u00b0C, while plasma nitriding was conducted at 540\u00b0C. Various HMS compositions were analyzed for their surface hardness and microstructural alterations post-treatment.",
+            "experimental_results": {
+                "Fe-TiB2 alloy": {
+                    "nitriding_hardness": "1100 HV0.05",
+                    "carburizing_hardness": "unable to increase",
+                    "microstructural_change": "no significant C uptake"
+                },
+                "Fe-Cr-B alloy": {
+                    "nitriding_hardness": "not specified",
+                    "carburizing_hardness": "800 HV0.05",
+                    "carburized_layer_thickness": "600 \u03bcm"
+                },
+                "Fe-18Cr-1.6B-0.25C alloy": {
+                    "nitriding_hardness": "not specified",
+                    "hardness_gradient": "notable due to particle transformation"
+                },
+                "overall_findings": "Carburizing achieved increased hardness in the Fe-Cr-B alloy due to martensite formation, while nitriding produced expanded ferrite structures improving hardness."
+            },
+            "further_notes": "The findings indicate potential for improving the surface hardness of HMS through optimized thermochemical processing parameters."
+        },
+        "Carburizing_heat_treatment": {
+            "materials": [
+                {
+                    "name": "Fe-7.2Ti-2.8B",
+                    "type": "High modulus steel",
+                    "carbon_flux": "not detected",
+                    "diffusion_coefficient": "not specified",
+                    "saturated_carbon_concentration": "not specified",
+                    "temperature": 940,
+                    "initial_carbon_concentration": "not specified",
+                    "final_carbon_concentration": "not specified",
+                    "carburized_layer_depth": "not specified",
+                    "pulse_and_diffusion_time": "not specified",
+                    "gas_flow_rate": "200 l/h",
+                    "carburizing_pressure": "4 mbar",
+                    "other_parameters": {
+                        "quenching_oil_temperature": "60\u00b0C",
+                        "cooling_rate": "20 min to 850\u00b0C"
+                    }
+                },
+                {
+                    "name": "Fe-6.0Cr-1.6B",
+                    "type": "High modulus steel",
+                    "carbon_flux": "not specified",
+                    "diffusion_coefficient": "not specified",
+                    "saturated_carbon_concentration": "not specified",
+                    "temperature": 940,
+                    "initial_carbon_concentration": "not specified",
+                    "final_carbon_concentration": "not specified",
+                    "carburized_layer_depth": "600 \u03bcm",
+                    "pulse_and_diffusion_time": "10 min soaking, 100 min final diffusion",
+                    "gas_flow_rate": "not specified",
+                    "carburizing_pressure": "not specified",
+                    "other_parameters": {
+                        "hardness_change": "800 HV0.05",
+                        "hardness_gradient": "0.52 HV/\u03bcm"
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "Basic information": {
+            "title": "Microstructure and performance of functionally gradient Ti(C, N)-based cermets fabricated by low-pressure carburizing treatment during liquid phase sintering",
+            "authors": [
+                "Yijie Zhao",
+                "Yong Zheng",
+                "Wei Zhou",
+                "Jiajie Zhang",
+                "Guotao Zhang",
+                "Weihao Xiong"
+            ],
+            "institutions": [
+                "College of Material Science & Technology, Nanjing University of Aeronautics and Astronautics, Nanjing 210016, PR China",
+                "State Key Lab of Material Processing and Die & Mould Technology, Huazhong University of Science and Technology, Wuhan 430074, PR China"
+            ],
+            "publication_year": 2017,
+            "journal": "Ceramics International",
+            "volume": 43,
+            "pages": "1956-1962"
+        },
+        "Content summary": {
+            "main_content": "This study investigates functionally graded Ti(C, N)-based cermets prepared via a single-cycle process that combines vacuum sintering with low-pressure carburizing treatment during the liquid phase sintering stage. The research focuses on the microstructural changes and mechanical performance of the cermets after carburization.",
+            "research_question": "How does low-pressure carburizing affect the microstructure and mechanical properties of Ti(C, N)-based cermets?",
+            "experimental_design": "The cermets were produced from commercially available powders (TiC, TiN, Ni, Mo, WC) and subjected to a series of controlled vacuum sintering and carburizing sessions at 1400 \u00b0C for varying times (0, 20, 40, and 60 minutes).",
+            "experimental_results": "The results revealed that carburization led to a significant depletion of nickel in the surface layer, creating a nickel-depleted gradient. Mechanical testing showed increased hardness in the surface zone and satisfactory transverse rupture strength. The findings confirmed the expected correlation between carbon diffusion, nickel migration, and mechanical performance."
+        },
+        "Carburizing data": [
+            {
+                "Name of material": "Ti(C, N)-based cermets",
+                "Carbon Flux (g/cm\u00b2\u00b7s)": "Data not explicitly provided",
+                "Diffusion Coefficient": "Details not explicitly provided",
+                "Saturated Carbon Concentration (wt%)": "Data not explicitly provided",
+                "Temperature (\u00b0C)": 1400,
+                "Initial and Final Carbon Concentration": "Data not provided; but varying during treatment",
+                "Carburized Layer Depth (mm)": 0.6,
+                "Pulse and Diffusion Time (s)": {
+                    "20 min": 1200,
+                    "40 min": 2400,
+                    "60 min": 3600
+                },
+                "Gas Flow Rate (L/min or L/s)": "Methane introduced at 0.2 atm",
+                "Carburizing Pressure (Pa)": "Residual pressure of 1\u201310^-2 Pa",
+                "Other important parameters and details": {
+                    "Sintering Temperature": "1400\u00b0C",
+                    "Sintering Time": {
+                        "Cermet A": 60,
+                        "Cermet B": 40,
+                        "Cermet C": 20,
+                        "Cermet D": 0
+                    },
+                    "Volume Fraction of Binder Phase": {
+                        "As-sintered Surface": 33.9,
+                        "As-sintered Bulk": 34.99,
+                        "Carburized Surface": 22.0,
+                        "Carburized Bulk": 35.96
+                    },
+                    "Transverse Rupture Strength (TRS)": {
+                        "Cermet A": 2076,
+                        "Cermet B": 2066,
+                        "Cermet C": 2092,
+                        "Cermet D": 1942
+                    },
+                    "Microhardness": {
+                        "Cermet A": 1461,
+                        "Cermet B": 1328,
+                        "Carburized Cermet C": "Data not provided"
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "Basic information": {
+            "title": "Optimizing the low-pressure carburizing process of 16Cr3NiWMoVNbE gear steel",
+            "authors": [
+                "Haojie Wang",
+                "Bin Wang",
+                "Zhaodong Wang",
+                "Yong Tian",
+                "R.D.K. Misra"
+            ],
+            "institutions": [
+                "State Key Laboratory of Rolling and Automation, Northeastern University, Shenyang, China",
+                "Laboratory for Excellence in Advanced Steel Research, Department of Metallurgical, Materials and Biomedical Engineering, University of Texas at El Paso, USA"
+            ],
+            "publication year": 2019,
+            "journal": "Journal of Materials Science & Technology",
+            "volume": 35,
+            "pages": "1218-1227",
+            "DOI": "10.1016/j.jmst.2019.02.001"
+        },
+        "Content summary": {
+            "main content": "This study focuses on optimizing the low-pressure carburization process for 16Cr3NiWMoVNbE steel, utilized in aviation gears, aiming to enhance the carburized layer's microstructure and properties while addressing challenges like surface oxidation and carbide network formation. The authors propose a model for carbon flux considering saturation values and employ advanced microscopy methods for material analysis. Key findings indicate that low-pressure carburization enables finer carbide distributions and optimizes carbon concentrations, minimizing surface carbides.",
+            "research question": "How can the low-pressure carburizing process for 16Cr3NiWMoVNbE steel be optimized to improve microstructural properties and avoid issues like carbide network formation?",
+            "experimental design": "The research consists of a series of carburization experiments under varying parameters, including gas type, pressure, and temperature. The segmented averaging method for measuring carbon flux was employed, contrasting with traditional overall averaging methods.",
+            "experimental results": {
+                "carbon flux measurement": "The carbon flux measured using the segmented average method was found to be 2.5 times higher than that calculated using the overall average method, significantly reducing carburization time.",
+                "microstructure analysis": "The carburized layer comprised mainly carbides, martensite, and retained austenite. Regular patterns of carbides were observed, confirming the successful optimization of the process.",
+                "hardness distribution": "Hardness measurements showed maximum hardness of 780 HV at 0.15 mm from the surface, decreasing towards the center, indicating a well-defined carburized layer.",
+                "gas flow rates": "Acetylene flow was maintained at 10 L/min and carburizing pressure at 300 Pa."
+            }
+        },
+        "Carburizing parameters": [
+            {
+                "Name of material": "16Cr3NiWMoVNbE steel",
+                "Carbon Flux (g/cm\u00b2\u00b7s)": "7.32E-6",
+                "Diffusion Coefficient": "Data not explicitly provided",
+                "Saturated Carbon Concentration (wt%)": "1.5",
+                "Temperature (\u00b0C)": 930,
+                "Initial and Final Carbon Concentration": "0.16 wt% to 1.2 wt%",
+                "Carburized Layer Depth (mm)": 0.42,
+                "Pulse and Diffusion Time (s)": "First pulse 92 s, overall timing adjustments made",
+                "Gas Flow Rate (L/min or L/s)": "10 L/min",
+                "Carburizing Pressure (Pa)": 300,
+                "Other important parameters and details": {
+                    "Carburizing Process": "Low-pressure carburization using C2H2 gas",
+                    "Quenching Oil Temperature": "Room temperature",
+                    "Microhardness": "Surface hardness 600 HV, maximum hardness 780 HV at 0.15 mm",
+                    "Carbide Morphology": "Primarily Cr carbides observed, with distribution confirmed by EDS analysis.",
+                    "Cooling Control Methods": "Vacuum quenching",
+                    "Critical Concentration Avoidance": "Maximum carbon concentration kept below 1.5 wt%."
+                }
+            }
+        ]
+    },
+    {
+        "Basic information": {
+            "title": "High pressure gas quenching: Distortion analysis in gears after heat treatment",
+            "authors": [
+                "R. Atraszkiewicz",
+                "B. Januszewicz",
+                "\u0141. Kaczmarek",
+                "W. Stachurski",
+                "K. Dybowski",
+                "A. Rzepkowski"
+            ],
+            "institutions": [
+                "Institute of Materials Science and Engineering, Technical University of Lodz, Lodz, Poland",
+                "Institute of Machine Tools and Production Engineering, Technical University of Lodz, Lodz, Poland"
+            ],
+            "publication_year": 2012,
+            "journal": "Materials Science & Engineering A",
+            "volume": 558,
+            "pages": "550\u2013557",
+            "doi": "http://dx.doi.org/10.1016/j.msea.2012.08.047"
+        },
+        "Content summary": {
+            "main_content": "This study evaluates the effectiveness of high pressure gas quenching, specifically using nitrogen and helium gases, after low pressure carburizing of gears made from two different steel grades: 16MnCr5 and 15CrNi6. The focus is on the resulting microstructure, hardness, and dimensional changes to determine the optimal heat treatment process.",
+            "research_question": "How does the choice of gas for high pressure quenching affect the microstructure, hardness, and distortion of carburized gears?",
+            "experimental_design": "Toothed gears made from 16MnCr5 and 15CrNi6 steels were subjected to low pressure carburizing followed by gas quenching in either nitrogen or helium. The study measured microstructure, hardness, and distortions post-treatment across various measurement locations on the gears.",
+            "experimental_results": "Helium quenching enhanced the effective case depth and improved core hardness significantly compared to nitrogen quenching. The study found that helium exhibited approximately 65% greater quenching power, leading to less distortion in dimensions. The maximum case depth reached with helium was 0.53 mm for 16MnCr5, compared to the target of 0.3 mm."
+        },
+        "Carburizing data": {
+            "Name of material": "16MnCr5",
+            "Carbon Flux (g/cm\u00b2\u00b7s)": "Not specified",
+            "Diffusion Coefficient": "Not specified",
+            "Saturated Carbon Concentration (wt%)": "Not specified",
+            "Temperature (\u00b0C)": 950,
+            "Initial and Final Carbon Concentration": "Not specified",
+            "Carburized Layer Depth (mm)": 0.3,
+            "Pulse and Diffusion Time (s)": "Carburizing for 10 minutes.",
+            "Gas Flow Rate (L/min or L/s)": "Not specified",
+            "Carburizing Pressure (Pa)": "Pressure between 8 x 10^4 Pa and 3 x 10^4 Pa",
+            "Other important parameters and details": [
+                {
+                    "material": "16MnCr5",
+                    "quenching_gas": "Helium",
+                    "case_depth": 0.53,
+                    "core_hardness": "400HV1",
+                    "microstructure": "Martensite, retained austenite",
+                    "distortion": {
+                        "out_of_roundness": 0.011,
+                        "out_of_flatness": 0.004
+                    }
+                },
+                {
+                    "material": "16MnCr5",
+                    "quenching_gas": "Nitrogen",
+                    "case_depth": 0.3,
+                    "core_hardness": "250HV1",
+                    "microstructure": "Ferrite, pearlite, small amount of bainite",
+                    "distortion": {
+                        "out_of_roundness": 0.013,
+                        "out_of_flatness": 0.015
+                    }
+                },
+                {
+                    "material": "15CrNi6",
+                    "quenching_gas": "Helium",
+                    "case_depth": 0.6,
+                    "core_hardness": "Not specified, increased by 30HV1",
+                    "microstructure": "Martensite, retained austenite",
+                    "distortion": {
+                        "out_of_roundness": "Not specified",
+                        "out_of_flatness": "Not specified"
+                    }
+                },
+                {
+                    "material": "15CrNi6",
+                    "quenching_gas": "Nitrogen",
+                    "case_depth": 0.55,
+                    "core_hardness": "Not specified",
+                    "microstructure": "Bainite in the core",
+                    "distortion": {
+                        "out_of_roundness": "Not specified",
+                        "out_of_flatness": "Not specified"
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "Basic information": {
+            "title": "Microstructure and fatigue properties of 17Cr2Ni2MoVNb gear steel after gas carburizing and low-pressure carburizing",
+            "authors": [
+                "Yanjun Xue",
+                "Yongming Yan",
+                "Wenchao Yu",
+                "Mingzhen Dong",
+                "Jie Shi",
+                "Maoqiu Wang"
+            ],
+            "institutions": [
+                "Central Iron & Steel Research Institute Company Limited, Beijing 100081, China",
+                "School of Material Science and Engineering, Xiangtan University, Xiangtan 411105, China"
+            ],
+            "publication_year": 2022,
+            "journal": "International Journal of Fatigue",
+            "doi": "10.1016/j.ijfatigue.2022.107314"
+        },
+        "Content summary": {
+            "main_content": "This research investigates the microstructure and fatigue properties of 17Cr2Ni2MoVNb gear steel subjected to gas carburizing (GC) and low-pressure carburizing (LPC) processes. The study highlights the differences in microstructure and material properties resulting from these two carburizing methods.",
+            "research_question": "How do gas carburizing and low-pressure carburizing affect the microstructure and fatigue properties of 17Cr2Ni2MoVNb gear steel?",
+            "experimental_design": "The specimens were subjected to gas carburizing and low-pressure carburizing, with microstructure analyses performed through SEM and EBSD. Fatigue tests were conducted to compare the fatigue limits and strengths of the treated specimens.",
+            "experimental_results": {
+                "microstructure": {
+                    "GC": {
+                        "structure": "twin martensite, retained austenite, and spherical carbides",
+                        "carbides": {
+                            "volume_fraction": "4.29 \u00b1 0.36 %",
+                            "size_range": "0.034 to 0.503 \u03bcm"
+                        }
+                    },
+                    "LPC": {
+                        "structure": "twin martensite and retained austenite",
+                        "carbides": "none observed"
+                    }
+                },
+                "fatigue_data": {
+                    "fatigue_limit": "980 MPa for both GC and LPC",
+                    "performance": "LPC specimens showed superior fatigue strength under high cyclic stresses."
+                }
+            }
+        },
+        "Carburizing": {
+            "materials": [
+                {
+                    "name_of_material": "17Cr2Ni2MoVNb gear steel",
+                    "type_of_material": "alloy steel",
+                    "composition": "0.20% C, 0.18% Si, 0.58% Mn, 1.69% Cr, 1.59% Ni, 0.28% Mo, 0.01% V, 0.032% Nb (in wt.%)"
+                }
+            ],
+            "process_parameters": [
+                {
+                    "carbon_flux": "not specified",
+                    "diffusion_coefficient": {
+                        "GC": {
+                            "C": "5.68e-27",
+                            "m": "19.80"
+                        },
+                        "LPC": {
+                            "C": "6.72e-21",
+                            "m": "11.83"
+                        }
+                    },
+                    "saturated_carbon_concentration": "not specified",
+                    "temperature": "not specified",
+                    "initial_carbon_concentration": "0.20 %",
+                    "final_carbon_concentration": "not specified",
+                    "carburized_layer_depth": "not specified",
+                    "pulse_time": "not specified",
+                    "diffusion_time": "not specified",
+                    "gas_flow_rate": "not specified",
+                    "carburizing_pressure": "not specified"
+                }
+            ],
+            "microstructure": {
+                "graded_structure": {
+                    "surface_layer": "twin martensite with RA for LPC; twin martensite, RA and carbides for GC",
+                    "core_structure": "lath martensite (finer for GC than for LPC)"
+                },
+                "carbide_characteristics": {
+                    "LPC": "none found",
+                    "GC": {
+                        "morphology": "spherical",
+                        "size": "average size of 0.133 \u00b1 0.066 \u03bcm"
+                    }
+                }
+            },
+            "final_properties": {
+                "hardness": {
+                    "surface_hardness": "not specified",
+                    "maximum_hardness": "not specified",
+                    "hardness_gradient": "not specified"
+                },
+                "fatigue_properties": {
+                    "fatigue_limit": "980 MPa for both GC and LPC",
+                    "S_N_curve": "not specified"
+                }
+            },
+            "other_parameters": {
+                "quenching_oil_temperature": "not specified",
+                "cooling_control_methods": "not specified",
+                "residual_stresses": "not specified"
+            }
+        }
+    },
+    {
+        "Basic information": {
+            "title": "Mechanism of the Microstructural Evolution of 18Cr2Ni4WA Steel during Vacuum Low-Pressure Carburizing Heat Treatment and Its Effect on Case Hardness",
+            "authors": [
+                "Bin Wang",
+                "Guodong Wang",
+                "Yanping He",
+                "Ye Liu",
+                "Yong Tian",
+                "Jinglin You",
+                "Zhaodong Wang"
+            ],
+            "institutions": [
+                "State Key Laboratory of Rolling and Automation, Northeastern University, Shenyang 110819, China",
+                "State Key Laboratory of Advanced Special Steel, Shanghai Key Laboratory of Advanced Ferrometallurgy, School of Materials Science and Engineering, Shanghai University, Shanghai 200072, China"
+            ],
+            "publication_year": 2020,
+            "doi": "10.3390/ma13102352",
+            "received_date": "21 April 2020",
+            "accepted_date": "18 May 2020",
+            "published_date": "20 May 2020"
+        },
+        "Content summary": {
+            "main_content": "This study investigated the microstructural evolution of the carburized layer in 18Cr2Ni4WA steel during vacuum low-pressure carburizing heat treatment and its effect on case hardness. The research aimed to understand how carburization affects microstructure and hardness distribution, particularly focusing on the transformation between retained austenite and martensite.",
+            "research_question": "How does the microstructural evolution during vacuum low-pressure carburizing treatment affect the hardness of 18Cr2Ni4WA steel?",
+            "experimental_design": "Carburization was performed using a multistage pulse method under controlled vacuum conditions. The samples were carburized at 800\u00b0C and subjected to a series of quenching and tempering treatments, including cryogenic treatment.",
+            "experimental_results": "Post-treatment analyses revealed a non-uniform hardness gradient, with surface hardness at 687 HV reducing with depth. The study found that low-temperature tempering enhanced martensitic transformation from retained austenite, but cryogenic treatments had limited effects on hardness."
+        },
+        "Materials process parameters microstructure final properties": [
+            {
+                "Name of material": "18Cr2Ni4WA steel",
+                "Carbon Flux (g/cm\u00b2\u00b7s)": "Not specified",
+                "Diffusion Coefficient": "Not specified",
+                "Saturated Carbon Concentration (wt%)": "0.7%",
+                "Temperature (\u00b0C)": "800",
+                "Initial and Final Carbon Concentration": "Initial: Not specified; Final: 0.67% at surface",
+                "Carburized Layer Depth (mm)": "1.35",
+                "Pulse and Diffusion Time (s)": "Total carburizing time: 12 h",
+                "Gas Flow Rate (L/min or L/s)": "10 L/min (C2H2)",
+                "Carburizing Pressure (Pa)": "300",
+                "Other important parameters and details": {
+                    "Elemental content": {
+                        "C": "0.2",
+                        "Si": "0.33",
+                        "Mn": "0.5",
+                        "Cr": "1.4",
+                        "Ni": "4.3",
+                        "W": "1.0"
+                    },
+                    "Post-carburizing quench oil temperature": "25\u00b0C",
+                    "Cooling control methods": "Vacuum oil quenching",
+                    "Gradient from surface to core": "Decreased carbon concentration from 0.67% (surface) to lower values at depth",
+                    "Microhardness distribution": {
+                        "Surface hardness": "687 HV",
+                        "Core hardness": "519 HV"
+                    },
+                    "Size and distribution of carbides": "None observed post quenching",
+                    "XRD characterization results": "Presence of martensite and retained austenite without carbide peaks",
+                    "Volume fraction of retained austenite": {
+                        "Before tempering": "24.91%",
+                        "After tempering": "17.66%"
+                    },
+                    "Specific treatment effects": "Cryogenic treatment increased retained austenite stability"
+                }
+            }
+        ]
+    },
+    {
+        "Basic information": {
+            "title": "Evaluation of Thermal Damage Impact on Microstructure and Properties of Carburized AISI 9310 Gear Steel Grade by Destructive and Non-Destructive Testing Methods",
+            "authors": [
+                "Kamil Dychto\u0144",
+                "Andrzej Gradzik",
+                "\u0141ukasz Kolek",
+                "Krzysztof Raga"
+            ],
+            "institutions": [
+                "Department of Materials Science, The Faculty of Mechanical Engineering and Aeronautics, Rzeszow University of Technology, Poland",
+                "Research and Development Laboratory for Aerospace Materials, Rzeszow University of Technology, Poland",
+                "Pratt & Whitney Rzeszow, Poland"
+            ],
+            "publication_year": 2021,
+            "journal": "Materials",
+            "volume": 14,
+            "issue": 18,
+            "pages": "5276",
+            "doi": "https://doi.org/10.3390/ma14185276",
+            "date_received": "17 August 2021",
+            "date_accepted": "11 September 2021",
+            "date_published": "14 September 2021"
+        },
+        "Content summary": {
+            "main_content": "The research evaluates the effects of thermal damage from grinding burns on the microstructure and properties of carburized AISI 9310 steel. The study outlines the simulation of grinding burns using laser surface heating and analyzes subsequent microstructural changes and mechanical properties.",
+            "research_question": "What are the impacts of thermal damage on the structure and properties of carburized AISI 9310 gear steel?",
+            "experimental_design": "The AISI 9310 steel samples were subjected to low-pressure carburizing followed by laser surface heating to create simulated grinding burns. Various parameters such as temperature, time, and laser power density were systematically varied to observe their effects.",
+            "experimental_results": "Laser heating induced over-tempering and re-hardening effects, which significantly altered the microstructure and hardness of the treated material. The study used magnetic Barkhausen noise (MBN) analysis to assess the changes in surface integrity and correlate them with hardness variations."
+        },
+        "Carburizing_heat_treatment": {
+            "materials": [
+                {
+                    "name_of_material": "AISI 9310",
+                    "type_of_material": "steel",
+                    "chemical_composition": {
+                        "C": 0.13,
+                        "Ni": 3.18,
+                        "Cr": 1.21,
+                        "Mo": 0.11,
+                        "Cu": 0.07,
+                        "Mn": 0.57,
+                        "Si": 0.28,
+                        "S": 0.003,
+                        "P": 0.008,
+                        "Fe": "Balance"
+                    }
+                }
+            ],
+            "process_parameters": {
+                "carburizing_temperature": 925,
+                "austenitizing_time_min": 73,
+                "number_of_cycles": 20,
+                "diffusion_segments_duration_min": 326,
+                "boost_segments_duration_sec": 1260,
+                "total_process_time_min": 420,
+                "heat_treatment": {
+                    "austenitizing_temperature": 830,
+                    "quenching_temperature": "40\u201350",
+                    "sub_zero_treatment": "-75",
+                    "tempering_temperature": 150
+                }
+            },
+            "microstructure_properties": {
+                "saturated_carbon_concentration": "Variable",
+                "initial_carbon_concentration": "Variable",
+                "final_carbon_concentration": "Variable",
+                "carburized_layer_depth_mm": "0.3\u20132.0",
+                "residual_stress": {
+                    "initial": "-62 MPa",
+                    "after_laser_heating": "100-200 MPa or up to 600 MPa depending on the over-tempering",
+                    "max_residual_stress_tracks": {
+                        "track1": "Varies",
+                        "track2": "Increased",
+                        "track3": "Up to 600 MPa"
+                    }
+                },
+                "microhardness_changes": {
+                    "track_hardness": {
+                        "track1": {
+                            "surface_hardness": 825,
+                            "center_hardness": 525
+                        },
+                        "track2": {
+                            "range_hardness": "From 525 to 880 HV across dimensions"
+                        },
+                        "track3": {
+                            "max_hardness": 880,
+                            "minimum": "Surface hardness decreased from 57.5% austenite to 18.1%"
+                        }
+                    }
+                },
+                "temperature_gradients": "Various based on power density and traverse speeds",
+                "plausible_features": [
+                    "Undissolved carbides and retained austenite presence across different heating tracks",
+                    "Significant changes due to thermal effects including over-tempering and re-hardening"
+                ]
+            },
+            "important_parameters": {
+                "laser_processing_parameters": {
+                    "laser_power_W": "80\u2013320",
+                    "scanning_velocity_mm_min": "250\u20131250",
+                    "power_density_kW_cm_squared": "2.5\u20137.2",
+                    "track_length_mm": 30,
+                    "beam_diameter_mm": 2
+                }
+            }
+        }
+    },
+    {
+        "Basic information": {
+            "title": "Influence of Chemical Composition on Structure and Mechanical Properties of Vacuum-Carburized Low-Alloy Steels",
+            "authors": [
+                "Pawe\u0142 Kochma\u0144ski",
+                "Renata Chyli\u0144ska",
+                "Pawe\u0142 Figiel",
+                "Sebastian Fryska",
+                "Agnieszka E. Kochma\u0144ska",
+                "Magdalena Kwiatkowska",
+                "Konrad Kwiatkowski",
+                "Agata Niemczyk",
+                "Justyna S\u0142owik",
+                "Wojciech Maziarz",
+                "\u0141ukasz Rogal",
+                "Konrad Dybowski",
+                "Jolanta Baranowska"
+            ],
+            "institutions": [
+                "Faculty of Mechanical Engineering and Mechatronics, West Pomeranian University of Technology, Szczecin, Poland",
+                "Institute of Metallurgy and Materials Science, Polish Academy of Sciences, Krakow, Poland",
+                "Institute of Materials Science and Engineering, Lodz University of Technology, Lodz, Poland"
+            ],
+            "publication_year": 2024,
+            "journal": "Materials",
+            "volume": 17,
+            "issue": 515,
+            "doi": "10.3390/ma17020515"
+        },
+        "Content summary": {
+            "research_question": "How does the chemical composition, specifically nickel content, influence the microstructure and fatigue properties of low-alloy steels subjected to vacuum and gas carburizing?",
+            "experimental_design": "The study tested four grades of low-alloy steel with varying nickel content. Both Low-Pressure Carburizing (LPC) and Low-Pressure Carbonitriding (LPCN) processes were employed, followed by double-gas quenching and tempering. A comparative analysis with gas carburizing was performed on one steel grade to assess the effects of processing on mechanical properties.",
+            "main_results": {
+                "microstructure": "The carburized layers developed primarily martensitic structures with retained austenite. Nickel content influenced retained austenite volume, with the highest retention in the nickel-rich steel.",
+                "mechanical_properties": "Vacuum carburizing yielded a superior fatigue strength (1350 MPa) compared to gas carburizing. Nickel-rich steels showed reduced surface hardness due to lower carbon concentration, while steels with lower nickel had higher hardness and core strength.",
+                "key_findings": [
+                    "Vacuum carburizing improves fatigue strength by avoiding internal oxidation seen in gas carburizing.",
+                    "Increasing nickel content raises retained austenite but reduces surface hardness due to lower carbon saturation.",
+                    "Molybdenum benefits structural refinement, while high-nickel content impacts carbon diffusion negatively."
+                ]
+            },
+            "relevant_sections": [
+                "Low-Pressure Heat Treatment",
+                "Gas Atmosphere Heat Treatment",
+                "Structural Characterization Protocol",
+                "Hardness Tests",
+                "Fatigue Test",
+                "Discussion"
+            ]
+        },
+        "Carburizing Heat Treatment": [
+            {
+                "Name of material": "1.3532 (16NiCrMo16-5)",
+                "Carbon Flux": "N/A",
+                "Diffusion Coefficient": "N/A",
+                "Saturated Carbon Concentration": "0.76 wt% (gas), 0.85 wt% (LPC, LPCN)",
+                "Temperature": "960 \u00b0C",
+                "Initial and Final Carbon Concentration": "Surface 0.85 wt% to 0.4 wt% at 1 mm depth (LPC), 0.76 wt% to 0.4 wt% at 1.3 mm depth (gas)",
+                "Carburized Layer Depth": "0.8 mm (LPC, LPCN), 1.4 mm (gas)",
+                "Pulse and Diffusion Time": "Alternating stages, specifics not provided",
+                "Gas Flow Rate": "2:2:1 (ethylene, acetylene, hydrogen)",
+                "Carburizing Pressure": "10 Pa (vacuum)",
+                "Other important parameters": "Retained austenite content ~20% (LPC); double-gas quenching at 1.2 MPa (nitrogen)"
+            },
+            {
+                "Name of material": "1.5920 (18CrNi8)",
+                "Carbon Flux": "N/A",
+                "Diffusion Coefficient": "N/A",
+                "Saturated Carbon Concentration": "0.85 wt% (LPC, LPCN)",
+                "Temperature": "960 \u00b0C",
+                "Initial and Final Carbon Concentration": "Surface 0.85 wt% to 0.4 wt% at 0.85 mm depth",
+                "Carburized Layer Depth": "1.1 mm (LPC, LPCN)",
+                "Pulse and Diffusion Time": "Alternating stages, specifics not provided",
+                "Gas Flow Rate": "2:2:1 (ethylene, acetylene, hydrogen)",
+                "Carburizing Pressure": "10 Pa (vacuum)",
+                "Other important parameters": "Retained austenite content ~20% (LPC)"
+            },
+            {
+                "Name of material": "1.6587 (18CrNiMo7-6)",
+                "Carbon Flux": "N/A",
+                "Diffusion Coefficient": "N/A",
+                "Saturated Carbon Concentration": "0.85 wt% (LPC, LPCN)",
+                "Temperature": "960 \u00b0C",
+                "Initial and Final Carbon Concentration": "Surface 0.85 wt% to 0.4 wt% at 0.85 mm depth",
+                "Carburized Layer Depth": "1.1 mm (LPC, LPCN)",
+                "Pulse and Diffusion Time": "Alternating stages, specifics not provided",
+                "Gas Flow Rate": "2:2:1 (ethylene, acetylene, hydrogen)",
+                "Carburizing Pressure": "10 Pa (vacuum)",
+                "Other important parameters": "Retained austenite content ~15% (LPC)"
+            },
+            {
+                "Name of material": "1.7243 (18CrMo4)",
+                "Carbon Flux": "N/A",
+                "Diffusion Coefficient": "N/A",
+                "Saturated Carbon Concentration": "0.85 wt% (LPC, LPCN)",
+                "Temperature": "960 \u00b0C",
+                "Initial and Final Carbon Concentration": "Surface 0.85 wt% to 0.4 wt% at 0.85 mm depth",
+                "Carburized Layer Depth": "1.1 mm (LPC, LPCN)",
+                "Pulse and Diffusion Time": "Alternating stages, specifics not provided",
+                "Gas Flow Rate": "2:2:1 (ethylene, acetylene, hydrogen)",
+                "Carburizing Pressure": "10 Pa (vacuum)",
+                "Other important parameters": "Retained austenite content ~10% (LPC); low core hardness relative to other steels"
+            }
+        ]
+    },
+    {
+        "Basic information": {
+            "title": "Unified Solid Solution Product of [Nb][C] in Nb-Microalloyed Steels with Various Carbon Contents",
+            "authors": [
+                "Yongming Yan",
+                "Yanjun Xue",
+                "Ke Liu",
+                "Wenchao Yu",
+                "Jie Shi",
+                "Maoqiu Wang"
+            ],
+            "institutions": [
+                "Central Iron & Steel Research Institute, Co., Ltd., Beijing 100081, China",
+                "Jianglu Machinery & Electronics Group, Co., Ltd., Xiangtan 411199, China"
+            ],
+            "publication_year": 2024,
+            "journal": "Materials",
+            "volume": 17,
+            "article_number": 3369,
+            "doi": "https://doi.org/10.3390/ma17133369",
+            "received": "19 May 2024",
+            "revised": "2 July 2024",
+            "accepted": "5 July 2024",
+            "published": "8 July 2024"
+        },
+        "Content summary": {
+            "main_content": "This study investigates the solid solution product of niobium carbide ([Nb][C]) in Nb-microalloyed steels with varying carbon contents (0.20-1.80 wt.%) using extraction phase analysis. The research focuses on understanding the relationship between Nb content in austenite and carbon content, verifying the precipitates' impact on grain growth during low-pressure carburizing.",
+            "research_question": "How does the carbon content affect the solid solution product of [Nb][C] in Nb-microalloyed steels, and can a unified solid solubility product equation be established?",
+            "experimental_design": "Experimental steels with different carbon contents were produced, and their Nb and C solubilities in austenite were analyzed at various temperatures using extraction phase analysis.",
+            "experimental_results": {
+                "solid_solubility_trend": "The Nb content in austenite first decreases, then increases with carbon content; however, the actual solubility values were lower than those predicted by Ohtani's equation.",
+                "precipitate_analysis": "NbC precipitates were verified in both case and core regions of samples carburized at 930 \u00b0C and 980 \u00b0C, with their sizes and microhardness varying with carburizing temperature.",
+                "conclusions": "A newly derived logarithmic equation for the [Nb][C] solid solubility was established, indicating that the amount of Nb must be increased to maintain refined grain sizes in the low-pressure carburizing process."
+            }
+        },
+        "Carburizing parameters": [
+            {
+                "Name of material": "Nb-microalloyed 18CrNiMo7-6 steel",
+                "Carbon Flux (g/cm\u00b2\u00b7s)": "Not specified",
+                "Diffusion Coefficient": "Not specified",
+                "Saturated Carbon Concentration (wt%)": "1.8",
+                "Temperature (\u00b0C)": "930, 980, 1050, 1100, 1200",
+                "Initial and Final Carbon Concentration": {
+                    "20C": {
+                        "Initial": 0.21,
+                        "Final": 0.2
+                    },
+                    "60C": {
+                        "Initial": 0.6,
+                        "Final": 0.6024
+                    },
+                    "100C": {
+                        "Initial": 0.99,
+                        "Final": 0.9981
+                    },
+                    "140C": {
+                        "Initial": 1.45,
+                        "Final": 1.4475
+                    },
+                    "180C": {
+                        "Initial": 1.82,
+                        "Final": 1.8181
+                    }
+                },
+                "Carburized Layer Depth (mm)": "Not specified",
+                "Pulse and Diffusion Time (s)": "Not specified",
+                "Gas Flow Rate (L/min or L/s)": "Not specified",
+                "Carburizing Pressure (Pa)": "Not specified",
+                "Other important parameters and details": {
+                    "Quenching oil temperature": "Room temperature",
+                    "Cooling control methods": "Oil cooling",
+                    "Grain size (near-surface and core at 930 \u00b0C)": {
+                        "near-surface": "12.13 \u00b5m",
+                        "core": "11.39 \u00b5m"
+                    },
+                    "Grain size (near-surface and core at 980 \u00b0C)": {
+                        "near-surface": "15.17 \u00b5m",
+                        "core": "15.07 \u00b5m"
+                    },
+                    "Hardness changes": "Not specified"
+                }
+            }
+        ]
+    },
+    {
+        "Basic information": {
+            "title": "Role of the martensitic microstructure in the stabilized residual stresses under cyclic loading and in the fatigue behavior of two steels",
+            "authors": [
+                "Dalenda Jeddi",
+                "Thierry Palin-Luc"
+            ],
+            "institutions": [
+                "University of Tunis El Manar, Department of Physics, IPEIEM, Tunis, Tunisia",
+                "Univ. Bordeaux, CNRS, Bordeaux INP, I2M, Talence, France",
+                "Arts et Metiers Institute of Technology, CNRS, Bordeaux INP, Hesam Universite, Talence, France"
+            ],
+            "publication_year": "2024",
+            "journal": "International Journal of Fatigue",
+            "doi": "10.1016/j.ijfatigue.2024.108168",
+            "received": "11 July 2023",
+            "revised": "13 January 2024",
+            "accepted": "20 January 2024"
+        },
+        "Content summary": {
+            "main_content": "This study investigates the impact of martensitic microstructure evolution on residual stresses and fatigue behavior in two low alloy steels\u201414NiCr11 and 42CrMo4. The research focuses on how vacuum carburizing processes, leading to varying retained austenite levels, influence these properties under cyclic loads. The findings indicate differing residual stress behaviors based on retained austenite percentages and microstructural characteristics, emphasizing the significance of heat treatment in enhancing fatigue life.",
+            "research_question": "How does the martensitic microstructure influence stabilized residual stresses and fatigue behavior under cyclic loading in carburized steels?",
+            "experimental_design": "The study employed vacuum carburizing on 14NiCr11 to produce layers with different retained austenite fractions (25% and 40%) and analyzed corresponding effects on fatigue performance and residual stress evolution through X-ray diffraction and microhardness testing.",
+            "experimental_results": {
+                "14NiCr11": {
+                    "fatigue_strength_improvement_type_1": "62%",
+                    "fatigue_strength_improvement_type_2": "78%",
+                    "residual_stress_longitudinal": {
+                        "type_1": "-300 MPa",
+                        "type_2": "-400 MPa"
+                    },
+                    "retained_austenite_transformed": {
+                        "type_1": "5%",
+                        "type_2": "10%"
+                    }
+                },
+                "42CrMo4": {
+                    "residual_stress_longitudinal": "-200 MPa",
+                    "residual_stress_transverse": "-50 MPa"
+                }
+            },
+            "other_relevant_parts": "The research shows that microstructure changes due to cyclic loading lead to a redistribution of residual stresses and stresses in martensite and retained austenite during fatigue tests."
+        },
+        "Carburizing Information": [
+            {
+                "name_of_material": "14NiCr11 steel",
+                "carbon_flux": "unknown",
+                "diffusion_coefficient": "unknown",
+                "saturated_carbon_concentration": "unknown",
+                "temperature": "1223 K - 1253 K",
+                "initial_and_final_carbon_concentration": "varies by treatment",
+                "carburized_layer_depth": "0.5 mm",
+                "pulse_and_diffusion_time": "8460 s - 3120 s",
+                "gas_flow_rate": "unknown",
+                "carburizing_pressure": "unknown",
+                "other_import_parameters": {
+                    "treatment_type": "Type 1, Type 2",
+                    "quenching_oil_temperature": "1153 K - 1253 K",
+                    "hardness_surface_hardness": "700 HV - 606 HV",
+                    "retained_austenite_before_after_cycles": {
+                        "type_1": {
+                            "before": "25%",
+                            "after": "19%"
+                        },
+                        "type_2": {
+                            "before": "41%",
+                            "after": "32%"
+                        }
+                    }
+                }
+            },
+            {
+                "name_of_material": "42CrMo4",
+                "carbon_flux": "unknown",
+                "diffusion_coefficient": "unknown",
+                "saturated_carbon_concentration": "unknown",
+                "temperature": "unknown",
+                "initial_and_final_carbon_concentration": "unknown",
+                "carburized_layer_depth": "unknown",
+                "pulse_and_diffusion_time": "unknown",
+                "gas_flow_rate": "unknown",
+                "carburizing_pressure": "unknown",
+                "other_import_parameters": {
+                    "treatment_type": "Quenched, Quenched & Tempered",
+                    "quenching_oil_temperature": "880 C",
+                    "hardness_surface_hardness": "varies",
+                    "retained_austenite": "none"
+                }
+            }
+        ]
+    },
+    {
+        "Basic information": {
+            "title": "Pyrolysis of propane under vacuum carburizing conditions: An experimental and modeling study",
+            "authors": [
+                "R.U. Khan",
+                "S. Bajohr",
+                "D. Buchholz",
+                "R. Reimert",
+                "H.D. Minh",
+                "K. Norinaga",
+                "V.M. Janardhanan",
+                "S. Tischer",
+                "O. Deutschmann"
+            ],
+            "institutions": [
+                "Engler-Bunte-Institut, Bereich Gas, Erd\u00f6l und Kohle, Universit\u00e4t Karlsruhe, Germany",
+                "Institute of Chemical Technology, University of Karlsruhe, Germany"
+            ],
+            "publication_year": 2008,
+            "journal": "J. Anal. Appl. Pyrolysis",
+            "volume": 81,
+            "pages": "148-156",
+            "doi": "10.1016/j.jaap.2007.09.012",
+            "received_date": "2 March 2007",
+            "accepted_date": "7 September 2007",
+            "available_online_date": "12 October 2007"
+        },
+        "Content summary": {
+            "research_questions": "How does propane pyrolysis behave under vacuum carburizing conditions?",
+            "experimental_design": "The study involved pyrolysis of propane in a flow reactor at 640 \u00b0C to 1010 \u00b0C and reduced pressure (8 mbar) to analyze gas products and model gas phase reactions.",
+            "experimental_results": "The resultant gas products varied significantly with temperature, showing complex behavior of species formation which was modeled using 1D and 2D flow models.",
+            "additional_notes": "The models illustrate the gas composition changes stemming from the pyrolysis process, comparing simulation results with experimental data to ensure accuracy in predictions."
+        },
+        "Carburizing parameters": {
+            "materials": {
+                "name_of_material": "Steel (Carburized)",
+                "carbon_flux": "Varies by temperature and reaction time, specific values not detailed",
+                "diffusion_coefficient": "Not specified",
+                "saturated_carbon_concentration": "Not explicitly detailed; implies localized increase in carbon concentration",
+                "temperature": "640 \u00b0C to 1010 \u00b0C",
+                "initial_carbon_concentration": "Not detailed",
+                "final_carbon_concentration": "Dependent on reaction conditions",
+                "carburized_layer_depth": "Not specified",
+                "pulse_and_diffusion_time": "0.8 s",
+                "gas_flow_rate": "150 L/h (at NTP)",
+                "carburizing_pressure": "8 mbar",
+                "other_details": {
+                    "quenching_oil_temperature": "Not mentioned",
+                    "cooling_control_methods": "Not detailed",
+                    "hardness_changes": "Not specified in the report",
+                    "diffusion_model": "1D and 2D models used; model assumptions include negligible axial diffusion",
+                    "critical_concentrations": "Not specified",
+                    "microhardness_and_analysis": "Not addressed within the paper"
+                }
+            }
+        }
+    },
+    {
+        "Basic information": {
+            "title": "Optimization of processing conditions in plasma activated nitrogen\u2013hydrocarbon carburizing",
+            "authors": [
+                "Yingying Wei",
+                "Zbigniew Zurecki",
+                "Richard D. Sisson Jr."
+            ],
+            "institutions": [
+                "Worcester Polytechnic Institute, 100 Institute Road, Worcester, MA 01609, USA",
+                "Air Products and Chemicals, Inc., 7201 Hamilton Boulevard, Allentown, PA 18195, USA"
+            ],
+            "publication_year": 2015,
+            "journal": "Surface & Coatings Technology"
+        },
+        "Content summary": {
+            "main_content": "The study investigates a novel plasma activated nitrogen-hydrocarbon carburizing process to improve uniformity and efficiency while reducing carbon footprint and costs associated with traditional carburizing methods.",
+            "research_question": "How do different gas mixtures and carburizing conditions affect the uniformity of the carburized case and the formation of soot?",
+            "experimental_design": "Three tests were conducted using a non-equilibrium nitrogen-propane carburizing atmosphere in an industrial-scale furnace. The effects of different gas compositions and loading configurations were studied using computational fluid dynamics.",
+            "experimental_results": "The introduction of a center channel design in the tray loading configuration significantly enhanced the uniformity of carbon distribution, leading to a more consistent carburized case and reduced soot formation compared to traditional methods. A specific gas mixture with 0.4% propane and 1% methane was optimal for minimizing soot.",
+            "conclusions": "Optimizing gas mixtures and configurations in plasma activated carburizing can lead to more efficient heat treatment processes with improved case uniformity and lower costs."
+        },
+        "Carburizing data": [
+            {
+                "Name of material": "16MnCr5 DIN",
+                "Carbon Flux (g/cm\u00b2\u00b7s)": "6.51E-07 in Test 1",
+                "Diffusion Coefficient": "Varies with conditions",
+                "Saturated Carbon Concentration (wt%)": "1.36 in Test 1",
+                "Temperature (\u00b0C)": "930",
+                "Initial and Final Carbon Concentration": "0.16 - 1.36 (Test 1)",
+                "Carburized Layer Depth (mm)": "Varied, not specified",
+                "Pulse and Diffusion Time (s)": "Tests run for 60 min",
+                "Gas Flow Rate (L/min or L/s)": "94.4 SLPM",
+                "Carburizing Pressure (Pa)": "Not specified",
+                "Other important parameters and details": [
+                    "Carbides and retained austenite analyzed under various conditions.",
+                    "Dynamic in-situ carbon control used.",
+                    "Center channel design improved gas distribution leading to improved carburizing uniformity."
+                ]
+            },
+            {
+                "Name of material": "AISI 8620",
+                "Carbon Flux (g/cm\u00b2\u00b7s)": "6.84E-07 in Test 2",
+                "Diffusion Coefficient": "Varies with conditions",
+                "Saturated Carbon Concentration (wt%)": "1.40 in Test 2",
+                "Temperature (\u00b0C)": "930",
+                "Initial and Final Carbon Concentration": "0.18 - 1.40 (Test 2)",
+                "Carburized Layer Depth (mm)": "Varied, not specified",
+                "Pulse and Diffusion Time (s)": "Tests run for 60 min",
+                "Gas Flow Rate (L/min or L/s)": "94.4 SLPM",
+                "Carburizing Pressure (Pa)": "Not specified",
+                "Other important parameters and details": [
+                    "Increased soot formation with higher CH4/H2 ratios.",
+                    "Quality of carburization affected by hydrocarbon composition and loading method."
+                ]
+            }
+        ]
+    },
+    {
+        "Basic information": {
+            "title": "Tribological performance of GLC, WC/GLC and TiN films on the carburized M50NiL steel",
+            "authors": [
+                "Zeqing Li",
+                "Honghong Zhang",
+                "Weifeng He",
+                "Bin Liao",
+                "Yinghong Li",
+                "Lei Xu",
+                "Guang'an Zhang",
+                "Xiangfan Nie"
+            ],
+            "institutions": [
+                "State Key Laboratory for Manufacturing Systems Engineering, Xi'an Jiaotong University, Xi'an 710049, China",
+                "Science and Technology on Plasma Dynamics Laboratory, Air Force Engineering University, Xi'an 710038, China",
+                "Aviation Industry Corporation of China Harbin Bearing Co. Ltd, Harbin 150025, China",
+                "State Key Laboratory of Solid Lubrication, Lanzhou Institute of Chemical Physics, Chinese Academy of Sciences, Lanzhou 730000, China",
+                "Institute of Low Energy Nuclear Physics, Beijing Normal University, Beijing 100875, China"
+            ],
+            "publication_year": "2019",
+            "journal": "Surface & Coatings Technology"
+        },
+        "Content summary": {
+            "main_content": "This study investigates the tribological performance of titanium nitride (TiN), graphite-like carbon (GLC), and tungsten doped GLC (WC/GLC) films deposited on M50NiL steel after low pressure vacuum carburizing. It aims to improve the tribological properties of M50NiL, commonly used in aero-engine bearings. It measures the friction and wear resistance of the deposited films under different loads and environments, including dry sliding and lubrication with a synthetic aviation lubricant.",
+            "research_question": "How do different coatings affect the tribological performance of carburized M50NiL steel?",
+            "experimental_design": "M50NiL steel samples were subjected to low pressure vacuum carburizing followed by film deposition via unbalanced magnetron sputtering and magnetic filtered cathode vacuum arc. Coatings were characterized using various techniques including SEM, EDS, Raman spectroscopy, and XRD.",
+            "experimental_results": {
+                "tribological_performance": "In dry sliding conditions, WC/GLC showed superior performance compared to GLC below 20 N load but had a higher wear rate at 20 N. For lubrication conditions, WC/GLC consistently outperformed the others in terms of lower friction coefficients and wear rates.",
+                "mechanical_properties": "The TiN film exhibited the highest nano-hardness (30.2 GPa) and elasticity modulus (357 GPa), while GLC and WC/GLC were lower at 21.5 GPa and 24.5 GPa, respectively."
+            }
+        },
+        "Carburizing analysis": {
+            "materials": [
+                {
+                    "name": "M50NiL steel",
+                    "type": "bearing steel"
+                },
+                {
+                    "name": "TiN",
+                    "type": "coating"
+                },
+                {
+                    "name": "GLC",
+                    "type": "coating"
+                },
+                {
+                    "name": "WC/GLC",
+                    "type": "coating"
+                }
+            ],
+            "process_parameters": {
+                "temperature": "900 \u00b0C (carburizing), 600 \u00b0C (tempering)",
+                "quenching_oil_temperature": "Not specified",
+                "carburizing_pressure": "Not specified",
+                "gas_flow_rate": "Ar flow rate = 16 sccm during GLC and WC/GLC deposition"
+            },
+            "microstructure": {
+                "carburized_layer_depth": "Not specified in mm",
+                "observations": {
+                    "TiN": "Dense structure, no obvious columnar-grains.",
+                    "GLC": "Uniform deposited grains, no defects.",
+                    "WC/GLC": "Nanocomposite structure with crystalline and amorphous phases."
+                }
+            },
+            "final_properties": {
+                "initial_carbon_concentration": "Not specified",
+                "final_carbon_concentration": "Not specified",
+                "saturated_carbon_concentration": "Not specified",
+                "hardness": {
+                    "surface_hardness": "Not specified",
+                    "maximum_hardness": "30.2 GPa (TiN)",
+                    "hardness_gradients": {
+                        "0-1mm": "7.35 GPa",
+                        "core": "4.3 GPa"
+                    }
+                },
+                "tribological_properties": {
+                    "friction_coefficients": {
+                        "dry_sliding": {
+                            "TiN": "0.25 initially, increases rapidly",
+                            "GLC": "0.071 stable",
+                            "WC/GLC": "0.055 stable"
+                        },
+                        "lubrication": {
+                            "TiN": "lower than GLC",
+                            "GLC": "higher friction coefficient than WC/GLC"
+                        }
+                    },
+                    "wear_rates": {
+                        "WC/GLC performance": "Better wear resistance compared to GLC under various loads."
+                    }
+                }
+            }
+        }
+    },
+    {
+        "Basic information": {
+            "title": "The high-cycle fatigue behavior of carburized M50NiL steel with high-energy modification and compound infiltration: A comparative study",
+            "authors": [
+                "Shaolong Li",
+                "Yilong Liang",
+                "Jiabang Yu",
+                "Dan Liu",
+                "Jian Chen",
+                "Guangwei Zeng"
+            ],
+            "institutions": [
+                "College of Materials and Metallurgy, Guizhou University, Guiyang 550025, China",
+                "Key Laboratory for Mechanical Behavior and Microstructure of Materials of Guizhou Province, Guiyang 550025, China",
+                "National & Local Joint Engineering Laboratory for High-performance Metal Structure Material and Advanced Manufacturing Technology, Guiyang 550025, China"
+            ],
+            "publication year": 2022,
+            "journal": "Surface & Coatings Technology",
+            "doi": "10.1016/j.surfcoat.2022.129009"
+        },
+        "Content summary": {
+            "main_content": "This research investigates the fatigue performance of carburized M50NiL steel subjected to various surface treatments, specifically ultrasonic surface rolling process (C + USRP) and plasma nitriding (C + N). The study compares the fatigue behavior of these treatments to traditional carburizing only. The findings demonstrate that C + N significantly enhances the high-cycle fatigue limit compared to both C + USRP and carburized-only samples. The study also explores the mechanisms behind the observed improvements in fatigue life, emphasizing the roles of microhardness, residual stress, and microstructure.",
+            "research_question": "How do different surface treatments (C + USRP and C + N) affect the high-cycle fatigue performance of carburized M50NiL steel?",
+            "experimental_design": "M50NiL steel samples were carburized at 950\u00b0C for 90 minutes followed by varying post-treatment processes (USRP or nitriding). High-cycle fatigue tests were conducted under tension-compression loads to determine fatigue limits.",
+            "experimental_results": {
+                "fatigue_limits": {
+                    "C": "412 MPa",
+                    "C + USRP": "676 MPa",
+                    "C + N": "770 MPa"
+                },
+                "microhardness": {
+                    "C": "690 HV0.1",
+                    "C + USRP": "750 HV0.1",
+                    "C + N": "1121 HV0.1"
+                },
+                "residual_stress": {
+                    "C": "-103 MPa",
+                    "C + USRP": "-1320 MPa",
+                    "C + N": "-998 MPa"
+                },
+                "conclusions": "The C + N process achieves higher hardness and lower residual stress relaxation rates, contributing to improved fatigue performance."
+            }
+        },
+        "Carburizing Heat Treatment Information": {
+            "a": {
+                "name_of_material": "M50NiL Steel",
+                "carbon_flux": "N/A",
+                "diffusion_coefficient": "N/A",
+                "saturated_carbon_concentration": "N/A",
+                "temperature": "950",
+                "initial_carbon_concentration": "0.13",
+                "final_carbon_concentration": "N/A",
+                "carburized_layer_depth": "1200",
+                "pulse_and_diffusion_time": {
+                    "carburizing": "90 s",
+                    "nitriding": "450 s"
+                },
+                "gas_flow_rate": "N/A",
+                "carburizing_pressure": "N/A",
+                "other_parameters": {
+                    "quenching_oil_temperature": "N/A",
+                    "hardness_changes_depth": {
+                        "C": {
+                            "depth": "150 \u03bcm",
+                            "hardness": "690 HV"
+                        },
+                        "C + USRP": {
+                            "depth": "150 \u03bcm",
+                            "hardness": "750 HV"
+                        },
+                        "C + N": {
+                            "depth": "100 \u03bcm",
+                            "hardness": "1121 HV"
+                        }
+                    },
+                    "residual_stress": {
+                        "C": "-103 MPa",
+                        "C + USRP": "-1320 MPa",
+                        "C + N": "-998 MPa"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "Basic information": {
+            "title": "Phase composition and numerical model of low-pressure pulse carburized layer in 15Cr14Co12Mo5Ni2W steel",
+            "authors": [
+                "Y. He",
+                "X.J. Zeng",
+                "L.Q. Li",
+                "N. Li",
+                "J.B. Niu",
+                "X.X. Ma"
+            ],
+            "institutions": [
+                "School of Material Science & Engineering, Harbin Institute of Technology, Harbin 150001, China",
+                "AECC Harbin Dong\u2019an Engine Co, Ltd, Harbin 150001, China",
+                "State Key Laboratory of Advanced Welding and Joining, Harbin Institute of Technology, Harbin 150001, China"
+            ],
+            "publication_year": 2024,
+            "journal": "Surface & Coatings Technology",
+            "doi": "10.1016/j.surfcoat.2024.130868",
+            "received_date": "26 March 2024",
+            "revised_date": "22 April 2024",
+            "accepted_date": "28 April 2024"
+        },
+        "Content summary": {
+            "main_content": "This study investigates the vacuum carburizing process of 15Cr14Co12Mo5Ni2W steel, which is critical for aerospace gears. Due to its high alloy content, predicting carbon concentration during carburizing has been challenging. The research aims to develop a predictive model for carbon distribution and understand carbide evolution during the process. Experimental methods include vacuum carburizing followed by characterization techniques such as XRD, SEM, EBSD, and TEM to analyze microstructural changes and phase compositions.",
+            "research_question": "How does the complex phase transformation and carbon concentration distribution occur during the vacuum carburizing of 15Cr14Co12Mo5Ni2W steel?",
+            "experimental_design": "The study involved short-term intense carburizing and subsequent diffusion experiments under controlled vacuum conditions, assessing the impacts of pulse carburizing on carbon concentration and carbide formation.",
+            "experimental_results": "Findings reveal distinct carbide types at various depths and their dependency on carbon concentration, with identified sequences of carbide precipitation. A new numerical model accounts for carbide behavior and diffusion processes, offering insights into optimizing the carburizing procedure."
+        },
+        "Carburizing key information": [
+            {
+                "Name of material": "15Cr14Co12Mo5Ni2W steel",
+                "Carbon Flux (g/cm\u00b2\u00b7s)": "not specified",
+                "Diffusion Coefficient": "1.8 * 10^(-5) * e^((-2.25 * CM))",
+                "Saturated Carbon Concentration (wt%)": "2 - 4 (with higher concentrations favoring certain carbide formations)",
+                "Temperature (\u00b0C)": "950 - 1000",
+                "Initial and Final Carbon Concentration": "varies by depth",
+                "Carburized Layer Depth (mm)": "specific depths not specified",
+                "Pulse and Diffusion Time (s)": {
+                    "Pulse Time": "varying (5 to 120 s)",
+                    "Diffusion Time": "2 - 8 h (post-carburizing)"
+                },
+                "Gas Flow Rate (L/min or L/s)": "not specified",
+                "Carburizing Pressure (Pa)": "4 mbar",
+                "Other important parameters": {
+                    "Heating Phase": "vacuum with N2 as protection",
+                    "Cooling Phase": "high-pressure N2 gas quenching",
+                    "Carbide Types": [
+                        "M23C6",
+                        "M2C (transient)",
+                        "M7C3",
+                        "M3C"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "Basic information": {
+            "title": "Wear behaviors and high-temperature oxidation resistance properties of tantalum carbide layer",
+            "authors": [
+                "Chongqing Di",
+                "Xiaodong Yan",
+                "Yin Yang",
+                "Wei Ye",
+                "Manyuan Zhao",
+                "Defu Li"
+            ],
+            "institutions": [
+                "State Key Laboratory of Nonferrous Metals and Processes, GRINM Group Co., Ltd, Beijing, 101407, China",
+                "GRINMAT Engineering Institute Co., Ltd. Beijing, 101407, China",
+                "General Research Institute for Nonferrous Metals, Beijing, 100088, China",
+                "China United Test & Certification Co., Ltd., Beijing, 100088, China"
+            ],
+            "publication_year": 2021,
+            "journal": "Ceramics International",
+            "DOI": "10.1016/j.ceramint.2021.08.173",
+            "received_date": "5 May 2021",
+            "accepted_date": "15 August 2021"
+        },
+        "Content summary": {
+            "main_content": "The study examines the wear behaviors and high-temperature oxidation resistance of a tantalum carbide (TaC) layer formed via vacuum carburizing of pure tantalum (Ta). The carburized layer consists of TaC as the outer layer and Ta2C as an intermediate layer, with a thickness of approximately 20 \u03bcm. The resulting materials exhibit improved hardness, wear resistance, and reduced oxidation susceptibility.",
+            "research_question": "How does vacuum carburizing affect the microstructure, mechanical properties, oxidation resistance, and wear behavior of tantalum?",
+            "experimental_design": "Samples of high-purity Ta were subjected to a vacuum carburizing process. The physical and mechanical properties of the resulting TaC/Ta2C bilayer were analyzed through various tests, including scanning electron microscopy, X-ray photoelectron spectroscopy, nano-indentation for hardness measurement, and high-temperature oxidation experiments.",
+            "experimental_results": "The carburizing process resulted in a hardness range of 14.632 to 35.832 GPa across the layer. The Ta carburized layer demonstrated significantly improved wear resistance, with a stable friction coefficient compared to pure Ta. High-temperature oxidation tests highlighted the TaC layer's protective properties, although prolonged exposure led to degradation and peeling."
+        },
+        "materials-process parameters-microstructure-final properties": [
+            {
+                "Name of material": "Tantalum (Ta)",
+                "Carbon Flux (g/cm\u00b2\u00b7s)": "Not specified",
+                "Diffusion Coefficient": "Not specified",
+                "Saturated Carbon Concentration (wt%)": "Not specified",
+                "Temperature (\u00b0C)": 1673,
+                "Initial and Final Carbon Concentration": "Not specified",
+                "Carburized Layer Depth (mm)": 0.02,
+                "Pulse and Diffusion Time (s)": 43200,
+                "Gas Flow Rate (L/min or L/s)": "Not specified",
+                "Carburizing Pressure (Pa)": "Not specified",
+                "Other important parameters and details": [
+                    "Carburized layer comprised of TaC outer layer and Ta2C intermediate layer.",
+                    "Nano-indentation hardness from 14.632 to 35.832 GPa.",
+                    "Friction coefficient of carburized sample stable at 0.4 vs 0.6-0.9 for pure Ta.",
+                    "High-temperature oxidation testing conducted at 1000\u00b0C for up to 100 minutes with observed peeling of the carburized layer."
+                ]
+            }
+        ]
+    },
+    {
+        "Basic information": {
+            "title": "Vacuum carburizing\u2014process optimization",
+            "authors": [
+                "P. Kula",
+                "R. Pietrasik",
+                "K. Dybowski"
+            ],
+            "institutions": "Institute of Materials Science and Engineering, Technical University of Lodz, Stefanowskiego St. 1, 90-924 Lodz, Poland",
+            "publication_year": 2005,
+            "journal": "Journal of Materials Processing Technology",
+            "volume": "164\u2013165",
+            "pages": "876\u2013881",
+            "doi": "10.1016/j.jmatprotec.2005.02.145"
+        },
+        "Content summary": {
+            "main_content": "This study explores the optimization of the vacuum carburizing process, focusing on the control of carbon concentration profiles and the effects of ambient conditions on carburization efficiency. It employs computer simulations to determine optimal process parameters, demonstrating the significance of surface phenomena and adequate stage timing for achieving desired carbon profiles in steels.",
+            "research_question": "How can the vacuum carburizing process be optimized to achieve predetermined carbon concentration profiles in the surface layer of steel in the shortest time possible?",
+            "experimental_design": "Samples of C20 mild steel and 20CrMnTi 5-4-1 alloyed steel were subjected to vacuum carburizing at temperatures of 920\u00b0C and 950\u00b0C. The methodology included a boost stage followed by a diffusion stage, with varying time intervals. Carbon concentrations in the samples were analyzed post-treatment using carbon analyzers and TOF-SIMS.",
+            "experimental_results": "The results indicated that the method of surface preparation and carbon concentration management significantly influences the final carbon profiles in the steel. The experimental data were compared with simulation results to highlight discrepancies due to carbonaceous deposits and carbide formation, stressing the complexities arising in alloyed steels."
+        },
+        "Carburizing_information": {
+            "materials": [
+                {
+                    "name_of_material": "C20 mild steel",
+                    "carbon_flux": "varies",
+                    "diffusion_coefficient": "not specified",
+                    "saturated_carbon_concentration": "not specified",
+                    "temperature": 920,
+                    "initial_final_carbon_concentration": {
+                        "initial": "not specified",
+                        "final": "up to 3.3 wt.%"
+                    },
+                    "carburized_layer_depth": "not specified",
+                    "pulse_diffusion_time": {
+                        "pulse": [
+                            5,
+                            15,
+                            120
+                        ],
+                        "diffusion": "not specified"
+                    },
+                    "gas_flow_rate": "not specified",
+                    "carburizing_pressure": "not specified",
+                    "other_parameters": {
+                        "quenching_oil_temp": "not specified",
+                        "hardness_changes": "not specified"
+                    }
+                },
+                {
+                    "name_of_material": "20CrMnTi 5-4-1 alloyed steel",
+                    "carbon_flux": "varies",
+                    "diffusion_coefficient": "not specified",
+                    "saturated_carbon_concentration": "not specified",
+                    "temperature": 950,
+                    "initial_final_carbon_concentration": {
+                        "initial": "not specified",
+                        "final": "up to 1.39 wt.%"
+                    },
+                    "carburized_layer_depth": "not specified",
+                    "pulse_diffusion_time": {
+                        "pulse": [
+                            5,
+                            15,
+                            120
+                        ],
+                        "diffusion": "not specified"
+                    },
+                    "gas_flow_rate": "not specified",
+                    "carburizing_pressure": "not specified",
+                    "other_parameters": {
+                        "quenching_oil_temp": "not specified",
+                        "hardness_changes": "not specified"
+                    }
+                }
+            ],
+            "additional_details": {
+                "carbon_deposit_issue": "Identified as a potential barrier to optimal diffusion.",
+                "final_carbide_concentration": "Not specified, but the emergence of a carbonaceous layer is noted.",
+                "microhardness_influences": "Not quantified in the document.",
+                "grain_boundary_characteristics": "Not detailed in the review.",
+                "carbon_profile_influence": "The presence of carbon deposits was found to affect the predictive capabilities of simulation models."
+            }
+        }
+    },
+    {
+        "Basic information": {
+            "title": "Influence of surface nanocrystallization pretreatment on high-temperature vacuum carburizing behavior",
+            "authors": [
+                "Meiling Dong",
+                "Xiufang Cui",
+                "Bingwen Lu",
+                "Xiangru Feng",
+                "Shengqiang Song",
+                "Guo Jin",
+                "Haidou Wang"
+            ],
+            "institutions": [
+                "Institute of Surface/Interface Science and Technology, Key Laboratory of Superlight Material and Surface Technology of Ministry of Education, College of Material Science and Chemical Engineering, Harbin Engineering University, Harbin, 150001, China",
+                "College of Materials Science and Engineering, Qiqihar University, Qiqihar, 161006, China",
+                "National Engineering Laboratory for Modern Materials Surface Engineering Technology, Guangdong Institute of New Materials, Guangzhou, 510651, China",
+                "National Key Laboratory for Remanufacturing, Academy of Armored Forces Engineering, Beijing, 100072, China"
+            ],
+            "publication_year": 2020,
+            "journal": "Journal of Materials Processing Technology",
+            "volume": 278,
+            "article_number": "116519"
+        },
+        "Content summary": {
+            "main_content": "The study investigates the effects of supersonic fine particle bombardment (SFPB) pretreatment on vacuum carburizing of AISI 9310 steel, focusing on changes in microstructure, mechanical properties, and tribological performance. SFPB treatment refines the microstructure, increases the case depth, and enhances hardness and wear resistance due to the formation of ultra-fine grains and dislocations.",
+            "research_question": "How does SFPB pretreatment influence the vacuum carburizing behavior and properties of AISI 9310 steel?",
+            "experimental_design": "AISI 9310 steel samples were subjected to SFPB pretreatment followed by vacuum carburizing. A comparison was made with samples directly carburized without SFPB treatment. Microstructures were analyzed using various microscopy techniques, including SEM and TEM. Mechanical properties were assessed through microhardness and tribology tests.",
+            "experimental_results": {
+                "microstructure": "SFPB-treated samples exhibited finer grains and higher carbide density. The average grain size was significantly reduced from approximately 1.2 \u03bcm to about 22.3 nm after SFPB, and the carburizing layers showed increased carbon concentrations due to enhanced diffusion.",
+                "mechanical_properties": {
+                    "microhardness": {
+                        "SFPB_carburized": "784 HV",
+                        "Conventional_carburized": "769 HV"
+                    },
+                    "case_depth": {
+                        "SFPB_carburized": "1.16 mm",
+                        "Conventional_carburized": "1.05 mm"
+                    },
+                    "wear_rate": {
+                        "SFPB_carburized": "0.016 mm\u00b3/Nm",
+                        "Conventional_carburized": "0.048 mm\u00b3/Nm"
+                    }
+                }
+            },
+            "conclusions": "SFPB pretreatment significantly enhances the carburizing process, leading to superior mechanical properties through microstructural refinement and increased carbon concentration."
+        },
+        "Carburizing heat treatment data": {
+            "Name of material": "AISI 9310 Steel",
+            "Carbon Flux (g/cm\u00b2\u00b7s)": "Data not specified",
+            "Diffusion Coefficient": "Data not specified",
+            "Saturated Carbon Concentration (wt%)": "1.11",
+            "Temperature (\u00b0C)": "925",
+            "Initial and Final Carbon Concentration": {
+                "Initial (wt%)": "0.11",
+                "Final (wt%)": "1.11"
+            },
+            "Carburized Layer Depth (mm)": {
+                "SFPB": "1.16",
+                "Conventional": "1.05"
+            },
+            "Pulse and Diffusion Time (s)": "Data not specified",
+            "Gas Flow Rate (L/min or L/s)": {
+                "Acetylene": "0.7 \u00d7 10",
+                "Nitrogen": "Data not specified"
+            },
+            "Carburizing Pressure (Pa)": "-3 Pa",
+            "Other important parameters and details": {
+                "Quenching oil temperature": "150 \u00b0C",
+                "Diffusion stages": "Boost and diffusion stage",
+                "Residual stress": {
+                    "SFPB_carburized": "-278 MPa",
+                    "Conventional_carburized": "-263 MPa"
+                },
+                "Microhardness Gradient (HV)": "Gradual drop from 784 HV at surface for SFPB to lower values with depth.",
+                "Carbide analysis": {
+                    "Volume fraction of carbides": {
+                        "SFPB_carburized": "3.21%",
+                        "Conventional_carburized": "2.51%"
+                    }
+                },
+                "Carbide size": {
+                    "SFPB_carburized": "0.19 \u00b1 0.02 \u03bcm",
+                    "Conventional_carburized": "0.21 \u00b1 0.03 \u03bcm"
+                }
+            }
+        }
+    },
+    {
+        "Basic information": {
+            "title": "Vacuum carburization of 12Cr2Ni4A low carbon alloy steel with lanthanum and cerium ion implantation",
+            "authors": [
+                "Meiling Dong",
+                "Xiufang Cui",
+                "Zhaobing Cai",
+                "Binshi Xu",
+                "Yuhui Zhang",
+                "Guo Jin",
+                "Caiwen Yue",
+                "Xin Zhao"
+            ],
+            "institutions": [
+                "Institute of Surface/Interface Science and Technology, Key Laboratory of Superlight Material and Surface Technology of Ministry of Education, Harbin Engineering University, Harbin 150001, China",
+                "College of Materials Science and Chemical Engineering, Harbin Engineering University, Harbin 150001, China",
+                "Dongan Engine Group, Harbin 150060, China"
+            ],
+            "publication_year": 2017,
+            "journal": "Journal of Rare Earths",
+            "volume": 35,
+            "issue": null,
+            "pages": "1164-1170",
+            "doi": "10.1016/j.jre.2017.04.004"
+        },
+        "Content summary": {
+            "main_content": "This study investigates the effect of lanthanum and cerium ion implantation on the vacuum carburization of 12Cr2Ni4A low carbon alloy steel. The authors explore how these rare earth elements improve the microstructure, hardness, and carbon diffusion in the carburized layer. The study highlights that both ion implantations enhance hardness and accelerate the carburizing process, with lanthanum showing slightly better results compared to cerium.",
+            "research_question": "How do lanthanum and cerium ion implantations affect the microstructure and hardness of 12Cr2Ni4A low carbon alloy steel during vacuum carburization?",
+            "experimental_design": "The 12Cr2Ni4A steel samples were ion implanted with lanthanum and cerium ions before undergoing vacuum carburization at 925\u00b0C for 240 minutes. The carbon diffusion, microstructure, and hardness distribution were characterized using optical microscopy, scanning electron microscopy, X-ray diffraction, and hardness testing.",
+            "experimental_results": "Results show that both rare earth elements lead to an increase in surface hardness, improved microstructure with finer carbides, and enhanced carbon diffusion rates. The surface hardness achieved was 62.9 HRC for lanthanum ion implantation and an accelerated carburization rate by 12.4% for cerium implantation. The effective case depth was measured to be greater for implanted samples.",
+            "other_relevant_parts": "The study discusses the formation of more uniform carbon distributions and a reduction in retained austenite, with quantifiable impacts on microhardness across the carburized layer."
+        },
+        "Carburizing data": [
+            {
+                "name_of_material": "12Cr2Ni4A Low Carbon Alloy Steel",
+                "carbon_flux": "N/A",
+                "diffusion_coefficient": "D_Ce = 1.26 D_unimplanted, D_La = 1.17 D_unimplanted",
+                "saturated_carbon_concentration": "N/A",
+                "temperature": 925,
+                "initial_and_final_carbon_concentration": "C_initial = 0.11 wt%, C_final (recorded but not specified)",
+                "carburized_layer_depth": "1.14 mm (La), 1.18 mm (Ce), 1.05 mm (unimplanted)",
+                "pulse_and_diffusion_time": "240 min (total time)",
+                "gas_flow_rate": "N/A (acetylene and nitrogen)",
+                "carburizing_pressure": "0.7 \u00d7 10^3 Pa",
+                "other_important_parameters": {
+                    "ion_implantation_voltage": "45 kV",
+                    "ion_dose": "2 \u00d7 10^17 ions/cm\u00b2",
+                    "microhardness": {
+                        "surface": {
+                            "La": "62.9 HRC",
+                            "Ce": "61.6 HRC"
+                        },
+                        "effective_case_depth": {
+                            "La": "1.14 mm",
+                            "Ce": "1.18 mm",
+                            "Unimplanted": "1.05 mm"
+                        },
+                        "retained_austenite_percentage": {
+                            "Unimplanted": "11.7%",
+                            "Ce": "10.8%",
+                            "La": "9.6%"
+                        }
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "Basic information": {
+            "title": "Enhanced impact and wear properties of gear steel by supersonic fine particle bombardment modification technology",
+            "authors": [
+                "Lei Shi",
+                "Xiufang Cui",
+                "Jian Li",
+                "Guo Jin",
+                "Xuerun Zhang",
+                "Xin Wen",
+                "Haoliang Tian"
+            ],
+            "institutions": [
+                "Key Laboratory of Superlight Material and Surface Technology of Ministry of Education, College of Material Science and Chemical Engineering, Harbin Engineering University, Harbin 150001, China",
+                "Aviation Key Laboratory of Science and Technology on Advanced Corrosion and Protection for Aviation Material Beijing, Beijing Institute of Aeronautical Materials, Beijing 100095, China"
+            ],
+            "publication_year": 2022,
+            "doi": "10.1016/j.matchar.2022.112368"
+        },
+        "Content summary": {
+            "main_content": "The article investigates the effects of surface modification techniques on the mechanical properties of carburized gear steel. The study finds that using supersonic fine particle bombardment (SFPB) and CeO2 doping significantly enhances the impact toughness and wear resistance of 17CrNiMo6 steel.",
+            "research_question": "How do different pretreatment techniques, particularly SFPB and CeO2 doping, affect the microstructure and mechanical properties of carburized 17CrNiMo6 steel?",
+            "experimental_design": "The study employed SFPB followed by vacuum carburizing to create various carburized layers (VC, SC, CSC). The microstructure was analyzed using optical, scanning (SEM), and transmission electron microscopy (TEM), and mechanical properties were assessed via hardness tests and impact tests.",
+            "experimental_results": "The findings reveal that the CSC layer exhibits superior mechanical properties compared to both the SC and VC layers, with 30.8% higher impact absorbed energy and better wear resistance attributed to refined microstructures with equiaxed martensite and nano-carbides."
+        },
+        "Carburizing heat treatment information": [
+            {
+                "Name of material": "17CrNiMo6 low carbon steel",
+                "Carbon Flux (g/cm\u00b2\u00b7s)": "N/A",
+                "Diffusion Coefficient": "0.7 \u00d7 10\u207b\u00b3",
+                "Saturated Carbon Concentration (wt%)": "N/A",
+                "Temperature (\u00b0C)": 920,
+                "Initial and Final Carbon Concentration": "Initial: 0.17 wt%, Final: N/A",
+                "Carburized Layer Depth (mm)": 1.54,
+                "Pulse and Diffusion Time (s)": "360 (SFPB) + 2400 (carburizing)",
+                "Gas Flow Rate (L/min or L/s)": "10\u201330 g/s",
+                "Carburizing Pressure (Pa)": "0.7 \u00d7 10\u00b2",
+                "Other important parameters and details": {
+                    "quenching_oil_temperature": "850 \u00b0C",
+                    "cooling_control_methods": "high-temperature tempering at 180 \u00b0C + deep cryogenic treatment at -80 \u00b0C",
+                    "hardness_changes": {
+                        "VC_layer": "64.2 \u00b1 0.3 HR",
+                        "SC_layer": "64.8 \u00b1 0.7 HR",
+                        "CSC_layer": "66.3 \u00b1 0.2 HR"
+                    },
+                    "carbide_analysis": {
+                        "carbide_shape": "nano-carbide (granular and acicular)",
+                        "EDS_composition": "Fe, C predominant"
+                    },
+                    "microhardness": {
+                        "VC_layer_depth": 1.4,
+                        "SC_layer_depth": 1.47,
+                        "CSC_layer_depth": 1.54
+                    },
+                    "relation_of_grain_boundary": {
+                        "grain_size_VC": "12.99 \u03bcm",
+                        "grain_size_SC": "10 \u03bcm",
+                        "grain_size_CSC": "8.77 \u03bcm"
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "Basic information": {
+            "title": "High cycle fatigue behavior of a low carbon alloy steel: The influence of vacuum carburizing treatment",
+            "authors": [
+                "Na Xiao",
+                "Weijun Hui",
+                "Yongjian Zhang",
+                "Xiaoli Zhao",
+                "Ying Chen",
+                "Han Dong"
+            ],
+            "institutions": [
+                "Materials Science and Engineering Research Center, School of Mechanical, Electronic and Control Engineering, Beijing Jiaotong University, Beijing 100044, China",
+                "Central Laboratory, Central Iron and Steel Research Institute, Beijing 100081, China",
+                "School of Materials Science and Engineering, Shanghai University, Shanghai 200444, China"
+            ],
+            "publication_year": 2020,
+            "journal": "Engineering Failure Analysis",
+            "volume": 109,
+            "article_number": "104215"
+        },
+        "Content summary": {
+            "main_research_question": "How does vacuum carburizing treatment affect the high cycle fatigue behavior of low carbon alloy steel 20Cr2Ni4?",
+            "experimental_design": "The study involved vacuum carburizing tests at specific temperatures and carbon potentials, followed by rotating bending fatigue tests and comparison with quenched and tempered samples. Microstructural analyses included optical microscopy, SEM, EBSD, and XRD.",
+            "experimental_results": {
+                "fatigue_strength": "The fatigue strength of carburized specimens was approximately 38% higher than that of QT specimens.",
+                "failure_modes": "The carburized specimens experienced a higher percentage of interior inclusions as fracture origins (62%) compared to QT specimens (29%), indicating better resistance to surface failure.",
+                "microstructural_changes": "Carburized specimens demonstrated finer microstructural features and higher hardness values in the case layer compared to the core."
+            },
+            "other_relevant_parts": "The study highlighted the importance of carbon diffusion and microstructural characteristics on fatigue behavior and indicated that vacuum carburizing notably enhanced mechanical properties and microstructure stability."
+        },
+        "Carburizing heat treatment key information": [
+            {
+                "Name of material": "20Cr2Ni4 steel (low carbon alloy steel)",
+                "Carbon Flux (g/cm\u00b2\u00b7s)": "Not specified",
+                "Diffusion Coefficient": "Not specified",
+                "Saturated Carbon Concentration (wt%)": "Not specified",
+                "Temperature (\u00b0C)": "930 and 830",
+                "Initial and Final Carbon Concentration": "1.0% initial, 0.8% final during carburizing",
+                "Carburized Layer Depth (mm)": "Effective case depth of ~0.87 mm, with actual case depth nearly twice this",
+                "Pulse and Diffusion Time (s)": "7 hours at 930 \u00b0C, 0.5 hours at 830 \u00b0C",
+                "Gas Flow Rate (L/min or L/s)": "Not specified",
+                "Carburizing Pressure (Pa)": "Vacuum pressure of -1 Pa",
+                "Other important parameters and details": {
+                    "Quenching oil temperature": "Not specified",
+                    "Residual stress": "Maximum compressive stress of -566 MPa at surface, decreasing with depth to -1 MPa beyond 1.2 mm",
+                    "Microhardness": "Maximum hardness of ~675 HV at surface, decreasing to ~430 HV at 1.6 mm depth",
+                    "Inclusion-induced fracture probability": "100% for carburized specimens",
+                    "EBSD analysis": "Microstructural characteristics revealed fine austenite grains in carburized layer"
+                }
+            }
+        ]
+    },
+    {
+        "Basic information": {
+            "title": "Study of the Catalytic Strengthening of a Vacuum Carburized Layer on Alloy Steel by Rare Earth Pre-Implantation",
+            "authors": [
+                "Guolu Li",
+                "Caiyun Li",
+                "Zhiguo Xing",
+                "Haidou Wang",
+                "Yanfei Huang",
+                "Weiling Guo",
+                "Haipeng Liu"
+            ],
+            "institutions": [
+                "School of Materials Science and Engineering, Hebei University of Technology, Tianjin, China",
+                "National Key Laboratory for Remanufacturing, Academy of Army Armored Forces, Beijing, China",
+                "Process Institute of Inner Mongolia First Machinery Group Co, Ltd, Baotou Inner Mongolia, China"
+            ],
+            "publication_year": 2019,
+            "doi": "10.3390/ma12203420"
+        },
+        "Content summary": {
+            "main_content": "This study investigates the impact of pre-implantation of rare earth ions (lanthanum and yttrium) on the microstructure and mechanical properties of vacuum carburized 20Cr2Ni4A alloy steel. The research reveals that the implantation of rare earth ions enhances the diffusion coefficient of carbon, refines the microstructure, and improves the hardening effect of the carburized layer.",
+            "research_question": "How does rare earth ion pre-implantation enhance the carburizing process and properties of 20Cr2Ni4A alloy steel?",
+            "experimental_design": "Samples were ion-implanted with lanthanum and yttrium before being subjected to vacuum carburization at 920\u00b0C for 5 hours. Various analytical techniques were employed, including XRD, SEM, EDS, and hardness testing.",
+            "experimental_results": {
+                "diffusion_coefficients": {
+                    "La": "1.12 times higher than non-implanted",
+                    "Y": "1.17 times higher than non-implanted"
+                },
+                "surface_hardness": {
+                    "non_implanted": "58.3 HRC",
+                    "La_implanted": "60.5 HRC",
+                    "Y_implanted": "61.8 HRC"
+                },
+                "carburized_layer_depth": {
+                    "non_implanted": "1.36 mm",
+                    "La_implanted": "1.44 mm",
+                    "Y_implanted": "1.47 mm"
+                }
+            }
+        },
+        "Carburizing Data": [
+            {
+                "Name of material": "20Cr2Ni4A Alloy Steel",
+                "Carbon Flux (g/cm\u00b2\u00b7s)": "not specified",
+                "Diffusion Coefficient": {
+                    "La": 1.12,
+                    "Y": 1.17
+                },
+                "Saturated Carbon Concentration (wt%)": "1.2%",
+                "Temperature (\u00b0C)": 920,
+                "Initial and Final Carbon Concentration": "0.17 wt% C to 0.9% (final surface)",
+                "Carburized Layer Depth (mm)": {
+                    "non_implanted": 1.36,
+                    "La_implanted": 1.44,
+                    "Y_implanted": 1.47
+                },
+                "Pulse and Diffusion Time (s)": "5 hours",
+                "Gas Flow Rate (L/min or L/s)": "not specified, alternately inject C2H2 and N2",
+                "Carburizing Pressure (Pa)": "1 \u00d7 10\u207b\u2075",
+                "Other important parameters and details": {
+                    "quenching_oil_temperature": "820 \u00b0C",
+                    "low_temperature_tempering": "180 \u00b0C for 3 hours",
+                    "hardness_values": {
+                        "max_hardness": {
+                            "La": 805,
+                            "Y": 822,
+                            "Non_implanted": 778
+                        },
+                        "core_hardness": "minimal change"
+                    },
+                    "Retained_Austenite_Content (%)": {
+                        "non_implanted": 16.7,
+                        "La_implanted": 15.6,
+                        "Y_implanted": 14.2
+                    },
+                    "Carbide Size": {
+                        "Non_implanted": {
+                            "avg_diameter": 0.35,
+                            "max_diameter": "5 \u00b5m",
+                            "percentage_within_0.6\u00b5m": 81.2
+                        },
+                        "La_implanted": {
+                            "avg_diameter": 0.25
+                        },
+                        "Y_implanted": {
+                            "avg_diameter": 0.17,
+                            "max_diameter": 0.36,
+                            "min_diameter": 0.06
+                        }
+                    },
+                    "ion_implantation_parameters": {
+                        "La": {
+                            "ion_energy (KeV)": 100,
+                            "implantation_dose": "2 \u00d7 10\u00b9\u2077 ions/cm\u00b2"
+                        },
+                        "Y": {
+                            "ion_energy (KeV)": 105,
+                            "implantation_dose": "2 \u00d7 10\u00b9\u2077 ions/cm\u00b2"
+                        }
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "Basic information": {
+            "title": "The In\ufb02uence of the Depth of Grinding on the Condition of the Surface Layer of 20MnCr5 Steel Ground with the Minimum Quantity Lubrication (MQL) Method",
+            "authors": [
+                "Wojciech Stachurski",
+                "Jacek Sawicki",
+                "Bart\u0142omiej Januszewicz",
+                "Rados\u0142aw Rosik"
+            ],
+            "institutions": [
+                "Institute of Machine Tools and Production Engineering, Lodz University of Technology, Lodz, Poland",
+                "Institute of Materials Science and Engineering, Lodz University of Technology, Lodz, Poland"
+            ],
+            "publication_year": 2022,
+            "journal": "Materials",
+            "issue": 15,
+            "article_number": 1336,
+            "doi": "10.3390/ma15041336",
+            "received": "6 January 2022",
+            "accepted": "8 February 2022",
+            "published": "11 February 2022"
+        },
+        "Content summary": {
+            "main_content": "This study investigates the impact of different grinding depths and lubrication methods on the microhardness, residual stresses, and surface roughness of 20MnCr5 steel after vacuum carburizing and quenching. The research contrasts the conventional flood lubrication method with the Minimum Quantity Lubrication (MQL) method.",
+            "research_question": "How do varying grinding depths and lubrication methods affect the surface properties of 20MnCr5 steel?",
+            "experimental_design": "The samples were subjected to vacuum carburizing followed by high-pressure gas quenching and then ground at different depths using two cooling techniques: WET and MQL. Parameters like microhardness, residual stresses, and surface roughness were measured before and after grinding.",
+            "experimental_results": {
+                "microhardness": "Lower microhardness changes were observed when using the MQL method, particularly at the lowest grinding depth.",
+                "residual_stresses": "The vacuum carburizing led to compressive residual stresses, but these generally degraded during grinding, especially at greater depths where tensile stresses increased.",
+                "surface_roughness": "Ground surfaces showed significantly lower roughness values with MQL compared to WET across all grinding depths."
+            },
+            "conclusions": "The MQL method performs better than conventional flood methods in terms of microhardness retention and surface quality, suggesting a favorable alternative for machining operations."
+        },
+        "Carburizing treatment data": [
+            {
+                "Name of material": "20MnCr5",
+                "Carbon Flux (g/cm\u00b2\u00b7s)": "Not specified",
+                "Diffusion Coefficient": "Not specified",
+                "Saturated Carbon Concentration (wt%)": "Not specified",
+                "Temperature (\u00b0C)": "920",
+                "Initial and Final Carbon Concentration": "Initial: 0.20 wt% C; Final: Not specified",
+                "Carburized Layer Depth (mm)": "0.4",
+                "Pulse and Diffusion Time (s)": "Not specified",
+                "Gas Flow Rate (L/min or L/s)": "Nitrogen, details not specified",
+                "Carburizing Pressure (Pa)": "700000",
+                "Other important parameters and details": {
+                    "Quenching method": "High-pressure gas quenching (HPGQ)",
+                    "Tempering temperature and time": "190 \u00b0C for 3 hours",
+                    "Residual stresses after TCT": "\u2212260 MPa near the surface, increasing with depth",
+                    "Microhardness after TCT": "820 \u00b1 10 HV"
+                }
+            }
+        ]
+    },
+    {
+        "Basic information": {
+            "title": "Minimizing Deformations in High-Temperature Vacuum Carburizing",
+            "authors": [
+                "Radomir Piotr Atraszkiewicz",
+                "Konrad Dybowski"
+            ],
+            "institutions": "Institute of Materials Science and Engineering, Lodz University of Technology, Lodz, Poland",
+            "publication_year": 2023,
+            "journal": "Materials",
+            "volume": 16,
+            "issue": "7630",
+            "DOI": "https://doi.org/10.3390/ma16247630",
+            "keywords": [
+                "effusion",
+                "vacuum carburizing",
+                "deformations"
+            ],
+            "received": "16 November 2023",
+            "revised": "5 December 2023",
+            "accepted": "11 December 2023",
+            "published": "13 December 2023"
+        },
+        "Content summary": {
+            "main_content": "The study investigates strategies to minimize deformations in high-temperature vacuum carburizing processes. It emphasizes stage carburizing, which involves heating to target temperatures while introducing carbon gradually. This approach leads to improved mechanical properties and reduced deformations compared to traditional constant-temperature carburizing.",
+            "research_question": "How can deformations caused during high-temperature vacuum carburizing be minimized while maintaining or improving material properties?",
+            "experimental_design": "Gears made of 16MnCr5 steel were subjected to low-pressure carburizing with two approaches: Constant-Temperature Carburizing (CTC) and Stage Carburizing (SC) at various temperatures. Carbon profiles, microstructure, and mechanical properties were assessed to determine the effects of carburizing approach.",
+            "experimental_results": {
+                "deformation_results": {
+                    "SC": "0.023 mm",
+                    "CTC": "0.041 mm"
+                },
+                "retained_austenite": {
+                    "SC": "13.5%",
+                    "CTC": "24.4%"
+                },
+                "hardness_gradient": "Lower hardness values were observed in the CTC process due to higher retained austenite content."
+            },
+            "conclusions": "Using pre-carburizing stages significantly reduces gear tooth deformations without adversely affecting radial runout. It enhances residual stress distribution and mechanical properties, particularly in terms of yield strength and stability at elevated temperatures."
+        },
+        "Materials and Process Parameters": [
+            {
+                "Name of material": "16MnCr5",
+                "Carbon Flux (g/cm\u00b2\u00b7s)": "Not specified",
+                "Diffusion Coefficient": "Not specified",
+                "Saturated Carbon Concentration (wt%)": "0.8",
+                "Temperature (\u00b0C)": "1000",
+                "Initial and Final Carbon Concentration": {
+                    "Initial": "0.17 wt%",
+                    "Final": "0.8 wt%"
+                },
+                "Carburized Layer Depth (mm)": "0.7",
+                "Pulse and Diffusion Time (s)": {
+                    "Pulse": "60",
+                    "Diffusion": "600"
+                },
+                "Gas Flow Rate (L/min or L/s)": "10 \u00b0C/min heating rate",
+                "Carburizing Pressure (Pa)": {
+                    "during carburizing": "300-800",
+                    "during diffusion": "10"
+                },
+                "Other important parameters and details": {
+                    "Quenching Pressure": "1.4 MPa",
+                    "Measurement Method": "GDOES for chemical composition, XRD for retained austenite and residual stress",
+                    "Microhardness Assessment": "KB Pr\u00fcftechnik hardness tester",
+                    "Experimental Method": "ANOVA for statistical significance in deformation measurements",
+                    "Carbide Characteristics": "Not detailed; focus on retained austenite and microstructural assessment"
+                }
+            }
+        ]
+    },
+    {
+        "Basic information": {
+            "title": "Influence of Chemical Composition on Structure and Mechanical Properties of Vacuum-Carburized Low-Alloy Steels",
+            "authors": [
+                "Pawe\u0142 Kochma\u0144ski",
+                "Magdalena Kwiatkowska",
+                "\u0141ukasz Rogal",
+                "Konrad Dybowski",
+                "Konrad Kwiatkowski",
+                "Agata Niemczyk",
+                "Jolanta Baranowska",
+                "Renata Chyli\u0144ska",
+                "Pawe\u0142 Figiel",
+                "Sebastian Fryska",
+                "Agnieszka E. Kochma\u0144ska",
+                "Justyna S\u0142owik",
+                "Wojciech Maziarz"
+            ],
+            "institutions": [
+                "Faculty of Mechanical Engineering and Mechatronics, West Pomeranian University of Technology in Szczecin, Poland",
+                "Institute of Metallurgy and Materials Science, Polish Academy of Sciences, Krakow, Poland",
+                "Institute of Materials Science and Engineering, Lodz University of Technology, Poland"
+            ],
+            "publication_year": 2024,
+            "doi": "10.3390/ma17020515"
+        },
+        "Content summary": {
+            "research": "This study investigates the effects of chemical composition, specifically the nickel content, on the structure and mechanical properties of vacuum carburized low-alloy steels compared to conventional gas carburizing.",
+            "research_question": "How does varying the chemical composition, particularly the nickel content, influence the mechanical properties and microstructure of vacuum-carburized low-alloy steels?",
+            "experimental_design": "Four grades of low-alloy steel were examined under vacuum carburizing conditions. The grades varied in nickel content, while gas carburizing was used as a comparative baseline for one grade. The study comprised structural analyses through microscopy and X-ray diffraction, alongside mechanical property assessments, such as hardness and fatigue strength.",
+            "experimental_results": {
+                "hardness": "Surface hardness ranged from 600 to 700 HV.",
+                "fatigue_strength": "Observed fatigue strength varied from 1000 to 1350 MPa, with vacuum carburizing offering superior properties over gas carburizing despite lower nickel content.",
+                "carburized_layer_depth": "Effective thickness of carburized layers ranged from 0.8 to 1.4 mm."
+            },
+            "conclusion": "The transition from gas to vacuum carburizing markedly improved fatigue properties, indicating that process conditions significantly outweigh the effects of increased alloying elements like nickel."
+        },
+        "Carburizing parameters": [
+            {
+                "Name of material": "16NiCrMo16-5 (1.3532)",
+                "Carbon Flux": "Not specified",
+                "Diffusion Coefficient": "Not specified",
+                "Saturated Carbon Concentration": "Not specified",
+                "Temperature": "Not specified",
+                "Initial and Final Carbon Concentration": "Not specified",
+                "Carburized Layer Depth": "0.8 \u00b1 0.1",
+                "Pulse and Diffusion Time": "Not specified",
+                "Gas Flow Rate": "Not specified",
+                "Carburizing Pressure": "Not specified",
+                "Other important parameters and details": {
+                    "Initial hardness": "248 HV",
+                    "Grain size": "7.5",
+                    "Retained austenite content (LPC)": "20%",
+                    "Retained austenite content (LPCN)": "21%"
+                }
+            },
+            {
+                "Name of material": "18CrNi7 (1.5920)",
+                "Carbon Flux": "Not specified",
+                "Diffusion Coefficient": "Not specified",
+                "Saturated Carbon Concentration": "Not specified",
+                "Temperature": "Not specified",
+                "Initial and Final Carbon Concentration": "Not specified",
+                "Carburized Layer Depth": "1.1 \u00b1 0.1",
+                "Pulse and Diffusion Time": "Not specified",
+                "Gas Flow Rate": "Not specified",
+                "Carburizing Pressure": "Not specified",
+                "Other important parameters and details": {
+                    "Initial hardness": "158 HV",
+                    "Grain size": "7.5",
+                    "Retained austenite content (LPC)": "19%",
+                    "Retained austenite content (LPCN)": "20%"
+                }
+            },
+            {
+                "Name of material": "18CrNiMo7-6 (1.6587)",
+                "Carbon Flux": "Not specified",
+                "Diffusion Coefficient": "Not specified",
+                "Saturated Carbon Concentration": "Not specified",
+                "Temperature": "Not specified",
+                "Initial and Final Carbon Concentration": "Not specified",
+                "Carburized Layer Depth": "1.1 \u00b1 0.1",
+                "Pulse and Diffusion Time": "Not specified",
+                "Gas Flow Rate": "Not specified",
+                "Carburizing Pressure": "Not specified",
+                "Other important parameters and details": {
+                    "Initial hardness": "251 HV",
+                    "Grain size": "7",
+                    "Retained austenite content (LPC)": "14%",
+                    "Retained austenite content (LPCN)": "15%"
+                }
+            },
+            {
+                "Name of material": "18CrMo4 (1.7243)",
+                "Carbon Flux": "Not specified",
+                "Diffusion Coefficient": "Not specified",
+                "Saturated Carbon Concentration": "Not specified",
+                "Temperature": "Not specified",
+                "Initial and Final Carbon Concentration": "Not specified",
+                "Carburized Layer Depth": "1.1 \u00b1 0.1",
+                "Pulse and Diffusion Time": "Not specified",
+                "Gas Flow Rate": "Not specified",
+                "Carburizing Pressure": "Not specified",
+                "Other important parameters and details": {
+                    "Initial hardness": "286 HV",
+                    "Grain size": "8",
+                    "Retained austenite content (LPC)": "9%",
+                    "Retained austenite content (LPCN)": "10%"
+                }
+            }
+        ]
+    },
+    {
+        "Basic information": {
+            "title": "Effect of Surface Condition on the Torsional Fatigue Behaviour of 20MnCr5 Steel",
+            "authors": [
+                "S. Ramesh",
+                "S. Natarajan",
+                "V. J. Sivakumar"
+            ],
+            "institutions": [
+                "Centre of Excellence in Corrosion and Surface Engineering (CECASE), National Institute of Technology, Trichy, Tiruchchirappalli, Tamilnadu 620015, India",
+                "Department of Metallurgical and Materials Engineering, National Institute of Technology, Trichy, Tiruchchirappalli, Tamilnadu 620015, India",
+                "Department of Management Studies, National Institute of Technology, Trichy, Tiruchchirappalli, Tamilnadu 620015, India"
+            ],
+            "publication_year": 2020,
+            "journal": "Metals and Materials International",
+            "volume": 27,
+            "pages": "3132-3142",
+            "doi": "https://doi.org/10.1007/s12540-020-00658-0",
+            "received": "18 September 2019",
+            "accepted": "18 February 2020",
+            "published_online": "6 March 2020"
+        },
+        "Content summary": {
+            "main_content": "This research investigates the torsional fatigue behavior of 20MnCr5 steel under various surface conditions influenced by vacuum carburizing, tempering processes, and surface modifications. The study aims to understand better how microstructural characteristics affect fatigue performance, particularly the degree of retained austenite and intergranular oxidation.",
+            "research_question": "How do different surface conditions and heat treatment processes affect the torsional fatigue performance of 20MnCr5 steel?",
+            "experimental_design": "The study involved heating power train shafts treated through vacuum carburizing followed by tempering and polishing operations. Torsional fatigue tests were conducted under specified torque loads, and the effects of surface roughness, intergranular oxidation, and retained austenite on fatigue life were analyzed.",
+            "experimental_results": "The results indicated significant improvements in fatigue life (up to 300%) due to optimized carburizing conditions, reduced retained austenite, and controlled surface roughness. The performance of shafts improved markedly with the second tempering process."
+        },
+        "Carburizing information": [
+            {
+                "Name of material": "20MnCr5 Steel",
+                "Carbon Flux (g/cm\u00b2\u00b7s)": "Data not specified",
+                "Diffusion Coefficient": "Data not specified",
+                "Saturated Carbon Concentration (wt%)": "10.33 - 11.07",
+                "Temperature (\u00b0C)": "940",
+                "Initial and Final Carbon Concentration": "C initial: 0.198; C final (case): 10.43 to 11.07",
+                "Carburized Layer Depth (mm)": "0.95 - 1.0",
+                "Pulse and Diffusion Time (s)": "125",
+                "Gas Flow Rate (L/min or L/s)": "Acetylene gas at 0.5 mbar",
+                "Carburizing Pressure (Pa)": "0.5 mbar",
+                "Other important parameters and details": {
+                    "Grain Boundary and Microstructural Characteristics": "No inter-granular oxidation observed; martensitic transformation achieved.",
+                    "Carbide Elemental Analysis": "Higher carbon content in surface region (10.43 wt%).",
+                    "Microhardness after Heat Treatment": "Surface hardness: 89.7 - 91.3 HR15N; core hardness: 37.5 - 39.5 HRC.",
+                    "Models and Calculation Methods": "Focus on vacuum carburizing models adjusted for carbon diffusion and surface treatment optimization."
+                }
+            }
+        ]
+    },
+    {
+        "Basic information": {
+            "title": "Effect of Vacuum Carburizing Time on Microstructure and Mechanical Properties of Tantalum Carbide Layer",
+            "authors": [
+                "Chongqing Di",
+                "Xiaodong Yan",
+                "Xuming Lv",
+                "Chao Yan",
+                "Wei Ye",
+                "Defu Li"
+            ],
+            "institutions": [
+                "State Key Laboratory of Nonferrous Metals and Processes, GRINM Group Co., Ltd, Beijing, China",
+                "GRINMAT Engineering Institute Co., Ltd., Beijing, China",
+                "General Research Institute for Nonferrous Metals, Beijing, China",
+                "Science and Technology on Particle Transport and Separation Laboratory, Tianjin, China",
+                "Research Institute of Physical and Chemical Engineering of Nuclear Industry, Tianjin, China"
+            ],
+            "publication_year": 2021,
+            "journal": "Metals and Materials International",
+            "volume": 27,
+            "pages": "5008-5016",
+            "doi": "10.1007/s12540-020-00934-z"
+        },
+        "Content summary": {
+            "research_question": "How does vacuum carburizing time affect the microstructure and mechanical properties of tantalum carbide layers on tantalum substrates?",
+            "experimental_design": "Pure tantalum samples were carburized in a vacuum furnace with a gas mixture of acetylene (45%) and nitrogen (55%) at 1673 K for 4, 8, and 12 hours. Microstructure and mechanical properties were analyzed using XRD, SEM, EBSD, hardness testing, and friction tests.",
+            "main_results": {
+                "microstructure": "A TaC/Ta2C bilayer was observed. With increasing carburizing time, grain size and layer thickness increased. The outer layer of TaC showed non-stoichiometric characteristics, with higher lattice distortion due to carbon.",
+                "mechanical_properties": "The hardness increased with carburizing time, from 104.1 HV to 322.5 HV. Adhesion strength peaked at 8 hours (49.1 N) but decreased at 12 hours due to layer thickness. Wear resistance improved with carburizing, stabilizing friction coefficients.",
+                "key_findings": [
+                    "Carburizing time significantly impacts the TaC/Ta2C layer structure.",
+                    "Hardness and adhesion strength improve with time, peaking at 8 hours.",
+                    "Carburized layers enhance wear resistance, reducing friction fluctuation."
+                ]
+            },
+            "relevant_sections": [
+                "Materials and Carburizing Processing",
+                "Phase Identification and Microstructural Characterization",
+                "Mechanical Properties Characterization",
+                "Results and Discussion",
+                "Microstructures and Morphology",
+                "Conclusions"
+            ]
+        },
+        "Carburizing Heat Treatment": [
+            {
+                "Name of material": "Pure Tantalum (Ta)",
+                "Carbon Flux": "Not specified",
+                "Diffusion Coefficient": "Not specified",
+                "Saturated Carbon Concentration": "Varied due to TaC non-stoichiometry",
+                "Temperature": "1673 K",
+                "Initial and Final Carbon Concentration": "Surface concentration forms TaC, with Ta2C beneath",
+                "Carburized Layer Depth": "11 \u00b5m at 4h, 16 \u00b5m at 8h, 20 \u00b5m at 12h",
+                "Pulse and Diffusion Time": "Continuous",
+                "Gas Flow Rate": "Acetylene (45%) and Nitrogen (55%)",
+                "Carburizing Pressure": "1 Pa",
+                "Other important parameters": {
+                    "Grain Size": "500 nm to 10 \u00b5m as carburizing time increased",
+                    "Surface Hardness": "104.1 HV (4h) to 322.5 HV (12h)",
+                    "Nanoindentation Hardness": "11.97 to 24.4 GPa with time",
+                    "Elastic Modulus": "466.6 to 615.3 GPa",
+                    "Adhesion Strength": "Peaks at 49.1 N for 8 hours",
+                    "Wear Resistance": "Friction coefficient stabilized with carburizing, reduced from pure Ta"
+                }
+            }
+        ]
+    }
+]

@@ -1,9 +1,5 @@
 # 🤖 MHTR-Agent: A Novel Paradigm for Heat Treatment Research Based on Multimodal Analysis and LLMs
 
-## Table of Contents
-
-[toc]
-
 ## Project Overview
 
 MHTR-Agent is an innovative multimodal AI framework that combines large language models (LLMs) with data mining, machine learning, and multimodal analysis for materials science research. The framework aims to address challenges in the carburizing heat treatment process, enabling precise prediction of material properties and optimization of heat treatment parameters.

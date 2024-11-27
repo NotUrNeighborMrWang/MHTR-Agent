@@ -1,121 +1,89 @@
-
 # 🤖 MHTR-Agent: A Novel Paradigm for Heat Treatment Research Based on Multimodal Analysis and LLMs
 
-MHTR-Agent is a multimodal analysis and intelligent optimization framework for the heat treatment field. It leverages large language models (LLMs) and advanced multimodal data integration techniques to accelerate scientific discoveries and process optimization.
+## Table of Contents
 
-This repository includes the implementation of the following key modules:
+[toc]
 
-- **llm_tracker**: For data mining and trend analysis in the heat treatment field.
-- **llm_predictor**: Implements multimodal data integration and builds quantitative relationships between composition, microstructure, and properties.
-- **llm_advisor**: An intelligent assistant for process optimization and decision-making.
+## Project Overview
 
----
+MHTR-Agent is an innovative multimodal AI framework that combines large language models (LLMs) with data mining, machine learning, and multimodal analysis for materials science research. The framework aims to address challenges in the carburizing heat treatment process, enabling precise prediction of material properties and optimization of heat treatment parameters.
+
+This project aims to promote collaboration between AI technologies and materials scientists by automating the analysis of the "composition–microstructure–performance" relationship and providing advanced tools for optimizing carburizing processes.
+
+![Alt text](./data/images/workflow.png)
+
+> The workflow for the MHTR-Agent includes the following components: "Scripting Tools and Database" for database construction, "Trend Tracker" for tracking development trends and frontier hotspots, "Performance Predictor" for predicting material microstructure and performance, and a multimodal intelligent advisor, "MHT-Advisor," built by integrating public and proprietary databases.
 
 ## Features
 
-- **Data Mining and Trend Analysis (`llm_tracker`)**:
-  - Extracts critical features from unstructured data, such as research papers, production reports, and experiment logs.
-  - Analyzes research trends and identifies key technical challenges.
+- **Multimodal Data Analysis**: Integrates text, tabular, and image data for high-precision material property prediction.
+- **Performance Predictor**: Uses FLAVA vision-language models and neural networks to reduce the mean absolute error (MAE) of hardness prediction to 2.87 HV.
+- **Trend Tracker**: Extracts and visualizes research trends and hotspots in heat treatment.
+- **MHT-Advisor**: An intelligent assistant based on Retrieval-augmented Generation (RAG) technology, providing actionable advice and optimizing carburizing process parameters.
 
-- **Multimodal Data Integration and Performance Prediction (`llm_predictor`)**:
-  - Integrates multimodal data, including microstructure images, processing parameters, and material composition.
-  - Builds high-precision quantitative models using advanced vision-language frameworks.
+![Alt text](./data/images/Predictor.png)
 
-- **Intelligent Process Optimization (`llm_advisor`)**:
-  - Provides actionable recommendations for process optimization.
-  - Combines finite element simulation and physics-informed neural networks to optimize heat treatment workflows.
+> Framework for Performance Predictor based on the multi-modal Cr13 steel database and a LLM named FLAVA. (1) Data preparation and processing, the first modal is the microstructure of the organization and the second modal is the structured data consisting of process parameters and material composition. (2) A neural network model consisting of a LLM called FLAVA and a multilayer perceptron with data flow done by multi-feature max. (3) Output predicted mechanical properties
+---
+
+## Core Achievements
+
+- **High Prediction Accuracy**: Hardness prediction achieves an MAE of 2.87 HV, outperforming traditional methods.
+- **Process Optimization**: Successfully optimized carburizing temperature and time using physics-informed neural networks (PINNs), reducing computation time by six orders of magnitude.
+- **Comprehensive Data Coverage**: Built a multimodal dataset encompassing microstructure images, process parameters, and material compositions.
 
 ---
 
-## Installation Guide
+## System Workflow
 
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/NotUrNeighborMrWang/MHTR-Agent.git
-   cd MHTR-Agent
-   ```
-
-2. Set up a virtual environment and install dependencies:
-   ```bash
-   python -m venv env
-   source env/bin/activate
-   pip install -r requirements.txt
-   ```
-
-3. Configure the API key for LLM integrations (e.g., OpenAI API) in the `.env` file:
-   ```
-   OPENAI_API_KEY=your_openai_api_key
-   ```
+- **Data Mining**: Extract unstructured data from scientific literature and experimental records.
+- **Trend Analysis**: Use natural language processing to identify research trends and hotspots.
+- **Performance Prediction**: Achieve high-accuracy material property prediction based on multimodal data.
+- **Process Optimization**: Optimize heat treatment processes through finite element simulations and predictive algorithms.
+- ... ... ... ... 
 
 ---
 
-## Usage Instructions
+## Usage
 
-### 1. Data Mining with `llm_tracker`
+### Prerequisites
 
-Run `llm_tracker` to extract and analyze data trends:
+Python 3.8 or higher  
+Required libraries: torch, transformers, pandas, numpy, matplotlib, etc. (see `requirements.txt`)
+
+### Installation
 
 ```bash
-python llm_tracker/main.py --input data/research_papers.json
+git clone https://github.com/NotUrNeighborMrWang/MHTR-Agent.git
+cd MHTR-Agent
+pip install -r requirements.txt
 ```
+---
 
-The output includes research trends and key technical domains.
+## Datasets
 
-### 2. Multimodal Prediction with `llm_predictor`
-
-Train and test predictive models using multimodal datasets:
-
-```bash
-python llm_predictor/main.py --config config/predictor_config.yaml
-```
-
-The output includes high-accuracy predictions for material properties.
-
-### 3. Intelligent Advising with `llm_advisor`
-
-Use the intelligent assistant to optimize heat treatment processes:
-
-```bash
-python llm_advisor/main.py --process carburizing --parameters parameters.json
-```
-
-The output includes optimized process parameters and detailed insights.
+The dataset includes metallographic images, material compositions, and process parameters extracted from academic literature and experimental results. Please contact the project authors for access.
 
 ---
 
-## Examples
+# Project Status
 
-- **Data Mining**: Analyze research trends in the heat treatment field.
-- **Performance Prediction**: Build a "composition-microstructure-property" model for Cr13 martensitic stainless steel.
-- **Process Optimization**: Optimize carburizing temperature and atmosphere composition.
+The code is being gradually uploaded and improved. Please stay tuned for updates and enhancements. Contributions are welcome!
 
 ---
 
-## Project Structure
+# Acknowledgments
 
-```
-MHTR-Agent/
-├── llm_tracker/         # Data mining and trend analysis
-├── llm_predictor/       # Multimodal data integration and prediction
-├── llm_advisor/         # Intelligent process optimization assistant
-├── requirements.txt     # Python dependencies
-└── README.md            # Project documentation
-```
+This project is supported by the following grants:
+
+- Henan Academy of Sciences Start-up Research Fund
+- Henan Provincial Science and Technology Research and Development Program Joint Fund
+
+For more details, please refer to our research papers.
 
 ---
 
-## License
+# License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the MIT License - see the LICENSE file for details.
 
----
-
-## Acknowledgements
-
-This project uses the following libraries and frameworks:
-- OpenAI GPT
-- Hugging Face Transformers
-- PyTorch
-- Scikit-learn
-
-For more details, please refer to the [References](#) section in the documentation.
